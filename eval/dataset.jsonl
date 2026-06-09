@@ -1,0 +1,21 @@
+{"query": "毕业需要多少学分", "expected_chunks": ["grad_req_001"], "gold_answer": "本科毕业通常需要修满 120 个学分。"}
+{"query": "毕业所需的最低 GPA 是多少", "expected_chunks": ["grad_req_002"], "gold_answer": "毕业最低 GPA 要求为 2.0。"}
+{"query": "需要多少 Level 3-4 高年级课程学分", "expected_chunks": ["grad_req_003"], "gold_answer": "需要修满 36 个 Level 3-4 高年级课程学分。"}
+{"query": "如何联系 IT 支持", "expected_chunks": ["it_007"], "gold_answer": "可通过 IT 服务台热线或在线 helpdesk 联系 IT 支持。"}
+{"query": "什么是双因素认证 2FA", "expected_chunks": ["it_005"], "gold_answer": "2FA 是双因素认证，登录时在密码之外再加一层安全验证。"}
+{"query": "本科学位课程学制是几年", "expected_chunks": ["ug_adm_004"], "gold_answer": "本科学位课程一般为 4 年制。"}
+{"query": "毕业后可以留在香港吗 IANG", "expected_chunks": ["ug_adm_008"], "gold_answer": "毕业后可通过 IANG 安排申请留港就业。"}
+{"query": "教学语言是什么", "expected_chunks": ["ug_adm_006"], "gold_answer": "教学语言主要为英语。"}
+{"query": "non-local applicant definition visa", "expected_chunks": ["ug_adm_001"], "gold_answer": "非本地申请人指需要签证/入境许可才能来港就读的申请人。"}
+{"query": "2025-2026 第一学期什么时候开始和结束", "expected_chunks": ["ac_cal_001"], "gold_answer": "可在学术日历查询 2025-2026 第一学期的起止日期。"}
+{"query": "考试期是什么时候", "expected_chunks": ["ac_cal_003"], "gold_answer": "考试期安排见 2025-2026 学术日历的考试时间表。"}
+{"query": "add drop 增退选期 semester 1 时间", "expected_chunks": ["cr_reg_001"], "gold_answer": "第一学期增退选期在九月开学初，具体见课程注册安排。"}
+{"query": "如何申请大学奖学金", "expected_chunks": ["fa_005"], "gold_answer": "大学奖学金按成绩 merit 评定，按指定流程申请。"}
+{"query": "如何申请学费延期缴费", "expected_chunks": ["fa_011"], "gold_answer": "可向学生资助办事处申请学费延期付款。"}
+{"query": "学生医疗咨询费用是多少", "expected_chunks": ["hlt_cou_001"], "gold_answer": "学生初级医疗咨询费用为 HK$20。"}
+{"query": "健康服务中心在哪里", "expected_chunks": ["hlt_cou_002"], "gold_answer": "健康服务中心位于邵逸夫楼 5 楼。"}
+{"query": "新生迎新活动什么时候举行", "expected_chunks": ["ori_act_001"], "gold_answer": "新生迎新活动通常在八月下旬、秋季学期开学前举行。"}
+{"query": "HKBU 有哪些体育设施", "expected_chunks": ["fac_spt_001"], "gold_answer": "体育设施包括健身房、游泳池、网球场等。"}
+{"query": "什么是 BUhub", "expected_chunks": ["car_int_003"], "gold_answer": "BUhub 是学校的就业/实习门户平台。"}
+{"query": "有大湾区实习机会吗", "expected_chunks": ["car_int_004"], "gold_answer": "有面向深圳、广州等大湾区的实习机会。"}
+{"query": "STEM 实习计划津贴多少", "expected_chunks": ["car_int_001"], "gold_answer": "STEM 实习计划提供 HK$11,490-34,470 的津贴。"}

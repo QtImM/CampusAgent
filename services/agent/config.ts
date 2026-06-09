@@ -37,5 +37,20 @@ export const AGENT_CONFIG = {
     REACT_RUNTIME_ENABLED: parseBooleanFlag(process.env.EXPO_PUBLIC_REACT_RUNTIME_ENABLED, true),
     REACT_MAX_ITERATIONS: parseInt(process.env.EXPO_PUBLIC_REACT_MAX_ITERATIONS || '5', 10),
     REACT_TIMEOUT_MS: parseInt(process.env.EXPO_PUBLIC_REACT_TIMEOUT_MS || '30000', 10),
+
+    // ── Retrieval: hybrid recall + RRF fusion (P1) ──────────────────
+    HYBRID_SEARCH_ENABLED: parseBooleanFlag(process.env.EXPO_PUBLIC_HYBRID_SEARCH_ENABLED, true),
+    RRF_K: parseInt(process.env.EXPO_PUBLIC_RRF_K || '60', 10),
+    EVIDENCE_TOP_K: parseInt(process.env.EXPO_PUBLIC_EVIDENCE_TOP_K || '4', 10),
+
+    // ── Retrieval: cross-encoder two-stage rerank (P1) ──────────────
+    // RERANKER_PROVIDER: 'none' (heuristic only) | 'cohere' | 'local'
+    RERANKER_PROVIDER: (process.env.EXPO_PUBLIC_RERANKER_PROVIDER || 'none').trim().toLowerCase(),
+    COHERE_API_KEY: (process.env.EXPO_PUBLIC_COHERE_API_KEY || '').trim(),
+    COHERE_RERANK_MODEL: process.env.EXPO_PUBLIC_COHERE_RERANK_MODEL || 'rerank-multilingual-v3.0',
+    // Self-hosted bge-reranker-v2-m3 cross-encoder endpoint exposing POST /rerank.
+    RERANKER_URL: (process.env.EXPO_PUBLIC_RERANKER_URL || '').trim(),
+    RERANKER_TIMEOUT_MS: parseInt(process.env.EXPO_PUBLIC_RERANKER_TIMEOUT_MS || '3000', 10),
+
     IS_PROD: false, // Set to true to use real backend proxy in future
 };

@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "tsx watch server/index.ts",
     "start": "tsx server/index.ts",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "eval:retrieve": "tsx eval/retrieve_cli.ts eval/dataset.jsonl > eval/retrieval_runs.jsonl",
+    "eval": "npm run eval:retrieve && python eval/run_eval.py"
   },
   "dependencies": {
     "@langchain/langgraph": "^1.3.7",

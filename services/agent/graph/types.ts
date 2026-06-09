@@ -33,6 +33,8 @@ export type PlannerDecision = 'answer' | 'clarify' | 'act';
 
 export type EvidenceItem = {
     id: string;
+    /** Stable identifier within its source (e.g. FAQ id, kb chunk key, memory key). Used by the offline eval harness to align against gold labels. */
+    sourceId: string;
     sourceType: EvidenceSourceType;
     topic: string;
     title: string;
@@ -42,6 +44,28 @@ export type EvidenceItem = {
     score: number;
     supportsAction: boolean;
     retrievedAt: string;
+};
+
+/** A single candidate observed at some stage of the retrieval pipeline, for tracing/eval. */
+export type RetrievalCandidate = {
+    sourceType: EvidenceSourceType;
+    sourceId: string;
+    topic: string;
+    score: number;
+    rank: number;
+};
+
+/** Optional deep trace of the retrieval pipeline, emitted when `debug` is requested. */
+export type RetrievalDebug = {
+    query: string;
+    /** Candidates per recall path, before fusion (keyed by path name e.g. "vector" | "keyword" | "faq"). */
+    perPath: Record<string, RetrievalCandidate[]>;
+    /** Candidates after RRF fusion (pre-rerank order). */
+    fused: RetrievalCandidate[];
+    /** Final ranked + truncated evidence handed to the synthesizer. */
+    finalRanked: RetrievalCandidate[];
+    /** Which reranker produced finalRanked ("cross-encoder:cohere" | "cross-encoder:local" | "heuristic"). */
+    rerankProvider: string;
 };
 
 export type GraphIntentState = {

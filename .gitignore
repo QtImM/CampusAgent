@@ -1,4 +1,29 @@
 # Dependencies
 node_modules/
 
-# Environme
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# Build output
+dist/
+build/
+*.tsbuildinfo
+
+# Logs
+*.log
+npm-debug.log*
+
+# Eval generated artifacts (dataset + baseline report are tracked; raw runs are not)
+eval/retrieval_runs.jsonl
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

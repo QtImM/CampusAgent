@@ -3,8 +3,17 @@ import { retrieveEvidenceBundle } from '../retrieval';
 import { pushTrace } from '../telemetry';
 
 export const retrieveContextNode = async (state: AgentGraphState): Promise<AgentGraphState> => {
-    const bundle = await retrieveEvidenceBundle(state);
+    const bundle = await retrieveEvidenceBundle(state, { debug: true });
     const answerability = bundle.evidence.length > 0 ? 'sufficient' : 'insufficient';
+
+    const debug = bundle.debug;
+    const summaryParts = [`evidence=${bundle.evidence.length}`];
+    if (debug) {
+        const pathCounts = Object.entries(debug.perPath)
+            .map(([name, items]) => `${name}=${items.length}`)
+            .join(',');
+        summaryParts.push(`recall(${pathCounts})`, `rerank=${debug.rerankProvider}`);
+    }
 
     return pushTrace(
         {
@@ -23,6 +32,6 @@ export const retrieveContextNode = async (state: AgentGraphState): Promise<Agent
             evidence: bundle.evidence,
         },
         'retrieve_context',
-        `evidence=${bundle.evidence.length}`
+        summaryParts.join(' ')
     );
 };
