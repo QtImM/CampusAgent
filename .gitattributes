@@ -1,0 +1,13 @@
+# 统一行尾：仓库内文本一律用 LF，避免跨系统（Windows CRLF / *nix LF）反复显示“已修改”
+* text=auto eol=lf
+
+# 二进制文件：不做任何行尾转换
+*.docx  binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.ico   binary
+*.pdf   binary
+*.woff  binary
+*.woff2 binary
