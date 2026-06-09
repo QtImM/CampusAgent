@@ -1,0 +1,2675 @@
+{
+    "metadata": {
+        "title": "HKBU Unified FAQ Knowledge Base",
+        "title_zh": "香港浸会大学统一FAQ知识库",
+        "version": "4.0 - Expanded Edition with Additional Topics",
+        "last_updated": "2026-02-24",
+        "source": "HKBU Official Websites - All Departments (Complete Collection)",
+        "data_sources": [
+            "HKBU Official Websites",
+            "Academic Registry (ar.hkbu.edu.hk)",
+            "IT Services (ito.hkbu.edu.hk)",
+            "Library Services (library.hkbu.edu.hk)",
+            "International Office (intl.hkbu.edu.hk)",
+            "Graduate School (gs.hkbu.edu.hk)",
+            "Admissions Office (admissions.hkbu.edu.hk)",
+            "Student Affairs - Financial Aid (sa.hkbu.edu.hk)"
+        ],
+        "languages": [
+            "en",
+            "zh-CN"
+        ],
+        "total_categories": 18,
+        "total_faqs": 127
+    },
+    "categories": [
+        {
+            "id": "undergraduate_admissions",
+            "name": "Undergraduate Admissions",
+            "name_zh": "本科生招生",
+            "description": "Information about undergraduate application procedures, eligibility, and requirements",
+            "description_zh": "有关本科申请程序、资格和要求的信息",
+            "faqs": [
+                {
+                    "id": "ug_adm_001",
+                    "question": "Who are non-local applicants?",
+                    "question_zh": "谁是非本地申请人？",
+                    "answer": "Non-local applicants are those entering Hong Kong for education purposes with student visa/entry permit issued by the Director of Immigration or related visas, if aged 18+. Others are considered local applicants.",
+                    "answer_zh": "非本地申请人是指为教育目的进入香港且持有香港入境事务处处长签发的学生签证/入境许可或相关签证的人士（18岁以上）。其他人被视为本地申请人。",
+                    "keywords": [
+                        "non-local",
+                        "local",
+                        "applicant",
+                        "visa",
+                        "immigration",
+                        "非本地",
+                        "本地",
+                        "申请人",
+                        "签证"
+                    ],
+                    "related_links": [
+                        "https://admissions.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "ug_adm_002",
+                    "question": "If I am a Hong Kong citizen studying overseas, will I be regarded as a non-local applicant?",
+                    "question_zh": "如果我是在海外学习的香港公民，我会被视为非本地申请人吗？",
+                    "answer": "No. Hong Kong citizens currently studying or residing overseas are classified as local applicants.",
+                    "answer_zh": "不会。目前在海外学习或居住的香港公民被归类为本地申请人。",
+                    "keywords": [
+                        "Hong Kong citizen",
+                        "overseas",
+                        "local applicant",
+                        "香港公民",
+                        "海外",
+                        "本地申请人"
+                    ],
+                    "related_links": [
+                        "https://admissions.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "ug_adm_003",
+                    "question": "When will classes start? Apart from Fall Intake, are there any other intakes?",
+                    "question_zh": "课程什么时候开始？除了秋季入学外，还有其他入学时间吗？",
+                    "answer": "Classes start in early September. Only Fall Intake is offered annually. See the Academic Calendar for specifics.",
+                    "answer_zh": "课程于九月初开始。每年仅提供秋季入学。请查看学术日历了解具体信息。",
+                    "keywords": [
+                        "classes start",
+                        "Fall Intake",
+                        "September",
+                        "academic calendar",
+                        "开学",
+                        "秋季入学",
+                        "九月"
+                    ],
+                    "related_links": [
+                        "https://admissions.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "ug_adm_004",
+                    "question": "What is the duration of an undergraduate degree programme?",
+                    "question_zh": "本科学位课程的学制是多久？",
+                    "answer": "Most programs last 4 years, though some require up to 6 years. Check the Programmes on Offer section for details.",
+                    "answer_zh": "大多数课程为4年，但有些课程最长需要6年。请查看'提供的课程'部分了解详情。",
+                    "keywords": [
+                        "duration",
+                        "4 years",
+                        "undergraduate degree",
+                        "programme",
+                        "学制",
+                        "4年",
+                        "本科学位"
+                    ],
+                    "related_links": [
+                        "https://admissions.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "ug_adm_005",
+                    "question": "Are there any part-time government-funded undergraduate degree programmes?",
+                    "question_zh": "有兼读制的政府资助本科学位课程吗？",
+                    "answer": "No part-time government-funded undergraduate programs are available.",
+                    "answer_zh": "没有兼读制的政府资助本科课程。",
+                    "keywords": [
+                        "part-time",
+                        "government-funded",
+                        "兼读制",
+                        "政府资助"
+                    ],
+                    "related_links": [
+                        "https://admissions.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "ug_adm_006",
+                    "question": "What is the medium of instruction?",
+                    "question_zh": "教学语言是什么？",
+                    "answer": "English is the medium of instruction for formal classroom teaching except for exempted courses.",
+                    "answer_zh": "正式课堂教学的语言为英语，除了获得豁免的课程。",
+                    "keywords": [
+                        "medium of instruction",
+                        "English",
+                        "teaching language",
+                        "教学语言",
+                        "英语"
+                    ],
+                    "related_links": [
+                        "https://admissions.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "ug_adm_007",
+                    "question": "Can I do part-time work while studying at HKBU?",
+                    "question_zh": "我可以在浸大学习期间做兼职工作吗？",
+                    "answer": "Refer to the Hong Kong Immigration Department's study-related policies for guidance.",
+                    "answer_zh": "请参阅香港入境事务处的学习相关政策以获取指导。",
+                    "keywords": [
+                        "part-time work",
+                        "employment",
+                        "immigration policy",
+                        "兼职",
+                        "工作",
+                        "入境政策"
+                    ],
+                    "related_links": [
+                        "https://www.immd.gov.hk/"
+                    ]
+                },
+                {
+                    "id": "ug_adm_008",
+                    "question": "Can I stay in Hong Kong after graduation?",
+                    "question_zh": "我毕业后可以留在香港吗？",
+                    "answer": "Consult the Immigration Arrangements for Non-local Graduates (IANG) guidelines from Hong Kong Immigration.",
+                    "answer_zh": "请查阅香港入境事务处的'非本地毕业生留港/回港就业安排'(IANG)指南。",
+                    "keywords": [
+                        "after graduation",
+                        "stay in Hong Kong",
+                        "IANG",
+                        "毕业后",
+                        "留港",
+                        "就业安排"
+                    ],
+                    "related_links": [
+                        "https://www.immd.gov.hk/"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "graduate_admissions",
+            "name": "Graduate Admissions",
+            "name_zh": "研究生招生",
+            "description": "Information about postgraduate application procedures and acceptance",
+            "description_zh": "有关研究生申请程序和录取的信息",
+            "faqs": [
+                {
+                    "id": "grad_adm_001",
+                    "question": "How can I accept the admission offer?",
+                    "question_zh": "如何接受录取通知？",
+                    "answer": "Applicants must complete five steps through the Online Application System by the deadline: 1. Read offer terms and declare conditions, 2. Verify identity information, 3. Pay confirmation fee, 4. Upload payment documentation, 5. Click 'Accept Offer'. Status updates typically require one week.",
+                    "answer_zh": "申请人必须在截止日期前通过在线申请系统完成五个步骤：1. 阅读录取条款并声明条件，2. 验证身份信息，3. 支付确认费，4. 上传付款文件，5. 点击'接受录取'。状态更新通常需要一周时间。",
+                    "keywords": [
+                        "accept offer",
+                        "admission",
+                        "online application",
+                        "接受录取",
+                        "在线申请"
+                    ],
+                    "related_links": [
+                        "https://ar.hkbu.edu.hk/tpg-studies/"
+                    ]
+                },
+                {
+                    "id": "grad_adm_002",
+                    "question": "Why hasn't my status updated after paying the fee?",
+                    "question_zh": "为什么支付费用后我的状态没有更新？",
+                    "answer": "Processing takes approximately one week. Verify payment status in the Online Application System under 'Payment Status' at least seven days after payment.",
+                    "answer_zh": "处理大约需要一周时间。申请人应在付款后至少七天在在线申请系统的'付款状态'下验证付款状态。",
+                    "keywords": [
+                        "payment status",
+                        "processing time",
+                        "付款状态",
+                        "处理时间"
+                    ],
+                    "related_links": [
+                        "https://ar.hkbu.edu.hk/tpg-studies/"
+                    ]
+                },
+                {
+                    "id": "grad_adm_003",
+                    "question": "Can I defer the admission confirmation fee payment?",
+                    "question_zh": "我可以推迟支付录取确认费吗？",
+                    "answer": "Deferral may be granted with justifiable reason and supporting documents. Requests must be submitted at least one week before the payment due date. Late applications risk offer cancellation.",
+                    "answer_zh": "如果提供合理理由和相关支持文件，可以批准延期。必须在付款截止日期前至少一周提交请求。逾期申请可能导致录取取消。",
+                    "keywords": [
+                        "deferral",
+                        "payment",
+                        "confirmation fee",
+                        "延期",
+                        "付款",
+                        "确认费"
+                    ],
+                    "related_links": [
+                        "https://ar.hkbu.edu.hk/tpg-studies/"
+                    ]
+                },
+                {
+                    "id": "grad_adm_004",
+                    "question": "How do I withdraw an accepted offer?",
+                    "question_zh": "如何撤回已接受的录取？",
+                    "answer": "Applicants must email the Taught Postgraduate Studies Section (hkbu_tpg@hkbu.edu.hk) and their Programme Office, including full name and application number.",
+                    "answer_zh": "申请人必须通过电子邮件联系授课式研究生学习部门和他们的课程办公室，包括全名和申请号码。",
+                    "keywords": [
+                        "withdraw offer",
+                        "撤回录取"
+                    ],
+                    "related_links": [
+                        "mailto:hkbu_tpg@hkbu.edu.hk"
+                    ]
+                },
+                {
+                    "id": "grad_adm_005",
+                    "question": "Can I receive a refund of the admission fee?",
+                    "question_zh": "我可以获得录取费的退款吗？",
+                    "answer": "No. All fees paid are non-refundable, as stated in the admission offer letter.",
+                    "answer_zh": "不可以。如录取通知书所述，所有已支付的费用不可退还。",
+                    "keywords": [
+                        "refund",
+                        "admission fee",
+                        "non-refundable",
+                        "退款",
+                        "录取费",
+                        "不可退还"
+                    ],
+                    "related_links": [
+                        "https://ar.hkbu.edu.hk/tpg-studies/"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "exchange_incoming",
+            "name": "Exchange Programme - Incoming Students",
+            "name_zh": "交换生项目 - 入境学生",
+            "description": "Information for international students coming to HKBU for exchange",
+            "description_zh": "为来浸大交换的国际学生提供的信息",
+            "subcategories": [
+                {
+                    "id": "exchange_in_academic",
+                    "name": "Academic",
+                    "name_zh": "学术相关",
+                    "faqs": [
+                        {
+                            "id": "exch_in_ac_001",
+                            "question": "How many semesters does HKBU run annually?",
+                            "question_zh": "HKBU每年有多少个学期？",
+                            "answer": "Two semesters—Fall (September-December) and Spring (mid-January-May), except for MBA programmes.",
+                            "answer_zh": "两个学期——秋季学期（9月至12月）和春季学期（1月中旬至5月），MBA课程除外。",
+                            "keywords": [
+                                "semesters",
+                                "Fall",
+                                "Spring",
+                                "学期",
+                                "秋季",
+                                "春季"
+                            ],
+                            "related_links": [
+                                "https://intl.hkbu.edu.hk/"
+                            ]
+                        },
+                        {
+                            "id": "exch_in_ac_002",
+                            "question": "Can I earn credits for courses at HKBU?",
+                            "question_zh": "我可以在HKBU获得学分吗？",
+                            "answer": "Yes. One credit represents weekly contact of 50 minutes. Full-time status requires minimum 12 credits per semester (visa compliance). Maximum recommended is 18 credits. Credit transfer subject to home institution approval.",
+                            "answer_zh": "可以。一个学分代表每周50分钟的接触时间。全日制状态要求每学期至少修读12个学分（签证合规要求）。建议最多18个学分。学分转换需经学生所在院校批准。",
+                            "keywords": [
+                                "credits",
+                                "course load",
+                                "credit transfer",
+                                "学分",
+                                "课程负荷",
+                                "学分转换"
+                            ],
+                            "related_links": [
+                                "https://intl.hkbu.edu.hk/"
+                            ]
+                        },
+                        {
+                            "id": "exch_in_ac_003",
+                            "question": "What courses can exchange students take?",
+                            "question_zh": "交换生可以选修什么课程？",
+                            "answer": "Students may enroll in any listed courses without prerequisite conflicts. Course approval from home institution required for credit transfer.",
+                            "answer_zh": "学生可以选修任何列出的课程，但不能有先修课程冲突。学分转换需要本国院校的课程批准。",
+                            "keywords": [
+                                "course selection",
+                                "prerequisites",
+                                "选课",
+                                "先修课程"
+                            ],
+                            "related_links": [
+                                "https://intl.hkbu.edu.hk/"
+                            ]
+                        },
+                        {
+                            "id": "exch_in_ac_004",
+                            "question": "Are there study-related fees?",
+                            "question_zh": "有与学习相关的费用吗？",
+                            "answer": "Generally no lab fees. Visual Arts courses require material fees. Budget approximately US$250 per semester for books.",
+                            "answer_zh": "通常没有实验室费用。视觉艺术课程需要材料费。每学期书籍预算约为250美元。",
+                            "keywords": [
+                                "fees",
+                                "books",
+                                "materials",
+                                "费用",
+                                "书籍",
+                                "材料"
+                            ],
+                            "related_links": [
+                                "https://intl.hkbu.edu.hk/"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "exchange_in_housing",
+                    "name": "Housing & Meals",
+                    "name_zh": "住宿与餐饮",
+                    "faqs": [
+                        {
+                            "id": "exch_in_hs_001",
+                            "question": "Are residence halls co-educational?",
+                            "question_zh": "学生宿舍是男女混合的吗？",
+                            "answer": "Yes, Undergraduate Halls and Village CARE are co-educational with gender-specific room assignments.",
+                            "answer_zh": "是的，本科生宿舍和Village CARE是男女混合的，但房间按性别分配。",
+                            "keywords": [
+                                "co-educational",
+                                "residence halls",
+                                "男女混合",
+                                "宿舍"
+                            ],
+                            "related_links": [
+                                "https://intl.hkbu.edu.hk/"
+                            ]
+                        },
+                        {
+                            "id": "exch_in_hs_002",
+                            "question": "What meal arrangements exist?",
+                            "question_zh": "有什么餐饮安排？",
+                            "answer": "No mandatory meal plan. Campus dining ranges from quick meals to multi-course options (Chinese/Western), costing approximately US$4-15 per meal.",
+                            "answer_zh": "没有强制性的餐饮计划。校园餐饮从快餐到多道菜选择（中西式），每餐约4-15美元。",
+                            "keywords": [
+                                "meal plan",
+                                "dining",
+                                "food",
+                                "餐饮计划",
+                                "用餐",
+                                "食物"
+                            ],
+                            "related_links": [
+                                "https://intl.hkbu.edu.hk/"
+                            ]
+                        },
+                        {
+                            "id": "exch_in_hs_003",
+                            "question": "Is smoking permitted in student housing?",
+                            "question_zh": "学生宿舍允许吸烟吗？",
+                            "answer": "No. Smoking, drinking, possession or use of or involvement with illegal drugs will not be tolerated anywhere on campus.",
+                            "answer_zh": "不允许。校园内任何地方都不允许吸烟、饮酒、持有或使用或涉及非法药物。",
+                            "keywords": [
+                                "smoking",
+                                "prohibited",
+                                "rules",
+                                "吸烟",
+                                "禁止",
+                                "规则"
+                            ],
+                            "related_links": [
+                                "https://intl.hkbu.edu.hk/"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "exchange_in_fees",
+                    "name": "Fees & Expenses",
+                    "name_zh": "费用与开支",
+                    "faqs": [
+                        {
+                            "id": "exch_in_fe_001",
+                            "question": "What are estimated monthly living costs?",
+                            "question_zh": "每月生活费用估计是多少？",
+                            "answer": "Approximate breakdown (excluding tuition/housing): Student hostel HK$2,800-3,600, Utilities/AC HK$500, Meals HK$5,000, Entertainment HK$1,000, Transportation HK$800, Miscellaneous HK$1,000. Total: HK$11,100-11,900.",
+                            "answer_zh": "大约明细（不包括学费/住宿费）：学生宿舍HK$2,800-3,600，水电/空调HK$500，餐饮HK$5,000，娱乐HK$1,000，交通HK$800，杂项HK$1,000。总计：HK$11,100-11,900。",
+                            "keywords": [
+                                "living costs",
+                                "expenses",
+                                "budget",
+                                "生活费用",
+                                "开支",
+                                "预算"
+                            ],
+                            "related_links": [
+                                "https://intl.hkbu.edu.hk/"
+                            ]
+                        },
+                        {
+                            "id": "exch_in_fe_002",
+                            "question": "How much cash should I bring and in what form?",
+                            "question_zh": "我应该带多少现金？以什么形式？",
+                            "answer": "Bring sufficient funds for approximately one month. Use traveler's cheques or electronic transfers. Credit cards widely accepted. ATMs convenient throughout Hong Kong.",
+                            "answer_zh": "带足够约一个月的资金。使用旅行支票或电子转账。信用卡广泛接受。香港各地的ATM很便捷。",
+                            "keywords": [
+                                "cash",
+                                "credit card",
+                                "ATM",
+                                "现金",
+                                "信用卡"
+                            ],
+                            "related_links": [
+                                "https://intl.hkbu.edu.hk/"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "exchange_in_health",
+                    "name": "Health & Insurance",
+                    "name_zh": "健康与保险",
+                    "faqs": [
+                        {
+                            "id": "exch_in_hl_001",
+                            "question": "What health services does HKBU provide?",
+                            "question_zh": "HKBU提供什么健康服务？",
+                            "answer": "General practitioners and dental services operate on campus at Health Services Centre. Chinese medicine clinic also available. Specialist referrals offered as needed.",
+                            "answer_zh": "全科医生和牙科服务在校园健康服务中心运营。还提供中医诊所。根据需要提供专科转诊。",
+                            "keywords": [
+                                "health services",
+                                "doctor",
+                                "dental",
+                                "健康服务",
+                                "医生",
+                                "牙科"
+                            ],
+                            "related_links": [
+                                "https://intl.hkbu.edu.hk/"
+                            ]
+                        },
+                        {
+                            "id": "exch_in_hl_002",
+                            "question": "Should I arrange insurance?",
+                            "question_zh": "我应该安排保险吗？",
+                            "answer": "Yes. Ensure adequate international coverage. HKBU student insurance coverage does not apply to personal travel in and outside Hong Kong for non-HKBU related activities.",
+                            "answer_zh": "是的。确保获得足够的国际保险。HKBU学生保险不适用于与HKBU无关的活动的香港境内外个人旅行。",
+                            "keywords": [
+                                "insurance",
+                                "coverage",
+                                "保险",
+                                "覆盖范围"
+                            ],
+                            "related_links": [
+                                "https://intl.hkbu.edu.hk/"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "exchange_in_immigration",
+                    "name": "Immigration & Customs",
+                    "name_zh": "入境与海关",
+                    "faqs": [
+                        {
+                            "id": "exch_in_im_001",
+                            "question": "Do exchange students need student visas?",
+                            "question_zh": "交换生需要学生签证吗？",
+                            "answer": "Yes, mandatory. Exchange students must obtain a student visa in order to study in Hong Kong. Apply through HKBU. Do not enter on tourist visa.",
+                            "answer_zh": "是的，必须的。交换生必须获得学生签证才能在香港学习。通过HKBU申请。不要以旅游签证入境。",
+                            "keywords": [
+                                "student visa",
+                                "mandatory",
+                                "immigration",
+                                "学生签证",
+                                "强制",
+                                "入境"
+                            ],
+                            "related_links": [
+                                "https://intl.hkbu.edu.hk/"
+                            ]
+                        },
+                        {
+                            "id": "exch_in_im_002",
+                            "question": "Can I leave and return without re-applying?",
+                            "question_zh": "我可以离开并返回而不重新申请吗？",
+                            "answer": "Generally yes, provided you return within visa validity and circumstances haven't changed. Verify with Hong Kong Immigration Department before departure.",
+                            "answer_zh": "通常可以，前提是您在签证有效期内返回且情况没有改变。出发前请与香港入境事务处核实。",
+                            "keywords": [
+                                "re-entry",
+                                "visa validity",
+                                "重新入境",
+                                "签证有效期"
+                            ],
+                            "related_links": [
+                                "https://www.immd.gov.hk/"
+                            ]
+                        },
+                        {
+                            "id": "exch_in_im_003",
+                            "question": "Are there employment or other regulatory requirements?",
+                            "question_zh": "有就业或其他监管要求吗？",
+                            "answer": "Study authorization permits education only at HKBU. Employment prohibited unless integrated into academic requirements. Students staying over 180 days must apply for HKID within 30 days.",
+                            "answer_zh": "学习授权仅允许在HKBU接受教育。禁止就业，除非集成到学术要求中。停留超过180天的学生必须在30天内申请香港身份证。",
+                            "keywords": [
+                                "employment",
+                                "HKID",
+                                "regulations",
+                                "就业",
+                                "身份证",
+                                "规定"
+                            ],
+                            "related_links": [
+                                "https://www.immd.gov.hk/"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "exchange_outgoing",
+            "name": "Exchange Programme - Outgoing Students",
+            "name_zh": "交换生项目 - 出境学生",
+            "description": "Information for HKBU students going abroad for exchange",
+            "description_zh": "为出国交换的浸大学生提供的信息",
+            "faqs": [
+                {
+                    "id": "exch_out_001",
+                    "question": "Do I need to pay tuition to the host institution?",
+                    "question_zh": "我需要向接收院校支付学费吗？",
+                    "answer": "No, tuition fees are paid directly to HKBU, not to the host institution.",
+                    "answer_zh": "不需要，学费直接支付给HKBU，而不是接收院校。",
+                    "keywords": [
+                        "tuition",
+                        "host institution",
+                        "学费",
+                        "接收院校"
+                    ],
+                    "related_links": [
+                        "https://intl.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "exch_out_002",
+                    "question": "What minimum GPA is required?",
+                    "question_zh": "需要什么最低GPA？",
+                    "answer": "Applicants need a minimum 2.5 cumulative GPA at the time of application and at the conclusion of the semester prior to exchange, plus departmental support.",
+                    "answer_zh": "申请人在申请时和交换前一学期结束时需要最低2.5的累计GPA，外加系里支持。",
+                    "keywords": [
+                        "GPA",
+                        "2.5",
+                        "requirement",
+                        "要求"
+                    ],
+                    "related_links": [
+                        "https://intl.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "exch_out_003",
+                    "question": "Is fluency in a third language necessary?",
+                    "question_zh": "是否需要流利掌握第三语言？",
+                    "answer": "Not required. Host institutions offer a wide variety of courses taught in English, though knowing the local language is advantageous.",
+                    "answer_zh": "不需要。接收院校提供各种各样的英语授课课程，尽管了解当地语言是有利的。",
+                    "keywords": [
+                        "language",
+                        "English",
+                        "third language",
+                        "语言",
+                        "英语",
+                        "第三语言"
+                    ],
+                    "related_links": [
+                        "https://intl.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "exch_out_004",
+                    "question": "Can credits transfer back?",
+                    "question_zh": "学分可以转回吗？",
+                    "answer": "Yes, with departmental approval. Students should obtain consent from your Head of Department/Programme Director before enrolling.",
+                    "answer_zh": "可以，需经系里批准。学生应该在注册前获得系主任/课程主任的同意。",
+                    "keywords": [
+                        "credit transfer",
+                        "departmental approval",
+                        "学分转换",
+                        "系里批准"
+                    ],
+                    "related_links": [
+                        "https://intl.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "exch_out_005",
+                    "question": "Can I graduate on time?",
+                    "question_zh": "我可以按时毕业吗？",
+                    "answer": "Potentially yes, if courses are carefully selected. Coordination with departmental advisors strongly recommended.",
+                    "answer_zh": "可能可以，如果课程经过仔细选择。强烈建议与系顾问协调。",
+                    "keywords": [
+                        "graduation",
+                        "on time",
+                        "毕业",
+                        "按时"
+                    ],
+                    "related_links": [
+                        "https://intl.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "exch_out_006",
+                    "question": "What are the selection criteria?",
+                    "question_zh": "选拔标准是什么？",
+                    "answer": "Merit-based selections consider cumulative GPA, TOEFL/IELTS scores, extracurricular involvement, personal statements, and partner institution availability.",
+                    "answer_zh": "择优选拔考虑累计GPA、TOEFL/IELTS分数、课外参与、个人陈述和合作院校的可用性。",
+                    "keywords": [
+                        "selection criteria",
+                        "GPA",
+                        "TOEFL",
+                        "IELTS",
+                        "选拔标准"
+                    ],
+                    "related_links": [
+                        "https://intl.hkbu.edu.hk/"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "accommodation",
+            "name": "Student Accommodation",
+            "name_zh": "学生住宿",
+            "description": "Information about on-campus housing and residence halls",
+            "description_zh": "有关校内住宿和学生宿舍的信息",
+            "subcategories": [
+                {
+                    "id": "accom_undergraduate",
+                    "name": "Undergraduate Housing",
+                    "name_zh": "本科生住宿",
+                    "faqs": [
+                        {
+                            "id": "accom_ug_001",
+                            "question": "Can I choose my roommate?",
+                            "question_zh": "我可以选择室友吗？",
+                            "answer": "Yes, returning students and local freshmen can indicate 1-2 eligible applicants as preferred roommates. Applications assessed independently; preferences considered only during room assignment.",
+                            "answer_zh": "可以，返校学生和本地新生可以指定1-2名符合条件的申请人作为首选室友。申请独立评估，室友偏好仅在房间分配时考虑。",
+                            "keywords": [
+                                "roommate",
+                                "preference",
+                                "室友",
+                                "偏好"
+                            ],
+                            "related_links": [
+                                "https://sa.hkbu.edu.hk/"
+                            ]
+                        },
+                        {
+                            "id": "accom_ug_002",
+                            "question": "Can I apply in later years?",
+                            "question_zh": "我可以在以后的年份申请吗？",
+                            "answer": "Students may submit applications in remaining undergraduate years, though first-year applications are encouraged.",
+                            "answer_zh": "学生可以在剩余的本科年份提交申请，尽管鼓励第一年申请。",
+                            "keywords": [
+                                "application",
+                                "later years",
+                                "申请",
+                                "以后年份"
+                            ],
+                            "related_links": [
+                                "https://sa.hkbu.edu.hk/"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "accom_residence_life",
+                    "name": "Residence Halls Living",
+                    "name_zh": "学生宿舍生活",
+                    "faqs": [
+                        {
+                            "id": "accom_life_001",
+                            "question": "Can I change bed spaces?",
+                            "question_zh": "我可以更换床位吗？",
+                            "answer": "Within-room changes permitted anytime. Swaps with other rooms occur during specified periods (Sep 30 for Semester 1; Feb 15 for Semester 2). HK$100 administrative fee applies.",
+                            "answer_zh": "房间内更换随时允许。与其他房间交换发生在指定期间（第一学期9月30日；第二学期2月15日）。需支付HK$100行政费。",
+                            "keywords": [
+                                "bed swap",
+                                "room change",
+                                "换床位",
+                                "换房间"
+                            ],
+                            "related_links": [
+                                "https://sa.hkbu.edu.hk/"
+                            ]
+                        },
+                        {
+                            "id": "accom_life_002",
+                            "question": "Air-conditioning costs?",
+                            "question_zh": "空调费用是多少？",
+                            "answer": "The running charge is HK$1.4 per kWh for bedroom air-conditioning.",
+                            "answer_zh": "卧室空调的运行费用为每千瓦时HK$1.4。",
+                            "keywords": [
+                                "air-conditioning",
+                                "costs",
+                                "electricity",
+                                "空调",
+                                "费用",
+                                "电费"
+                            ],
+                            "related_links": [
+                                "https://sa.hkbu.edu.hk/"
+                            ]
+                        },
+                        {
+                            "id": "accom_life_003",
+                            "question": "Bed dimensions?",
+                            "question_zh": "床的尺寸是多少？",
+                            "answer": "Standard beds measure 90cm × 190cm. Triple-room beds extend to 210cm for taller residents.",
+                            "answer_zh": "标准床尺寸为90厘米×190厘米。三人间的床延伸至210厘米，供较高的居民使用。",
+                            "keywords": [
+                                "bed size",
+                                "dimensions",
+                                "床尺寸"
+                            ],
+                            "related_links": [
+                                "https://sa.hkbu.edu.hk/"
+                            ]
+                        },
+                        {
+                            "id": "accom_life_004",
+                            "question": "Laundry facilities?",
+                            "question_zh": "洗衣设施如何？",
+                            "answer": "Washers cost HK$5.4 per 40-minute cycle; dryers cost HK$2 per 10 minutes (approximately 60 minutes for 6kg).",
+                            "answer_zh": "洗衣机每40分钟周期HK$5.4；烘干机每10分钟HK$2（6公斤通常约60分钟）。",
+                            "keywords": [
+                                "laundry",
+                                "washer",
+                                "dryer",
+                                "洗衣",
+                                "洗衣机",
+                                "烘干机"
+                            ],
+                            "related_links": [
+                                "https://sa.hkbu.edu.hk/"
+                            ]
+                        },
+                        {
+                            "id": "accom_life_005",
+                            "question": "Internet service?",
+                            "question_zh": "互联网服务如何？",
+                            "answer": "Each resident may connect his/her desktop/laptop to the data socket for free PPPoE service. Free Wi-Fi available (BU-Standard and BU-Advanced).",
+                            "answer_zh": "每位居民可以将他/她的台式机/笔记本电脑连接到数据插座以获得免费PPPoE服务。提供免费Wi-Fi（BU-Standard和BU-Advanced）。",
+                            "keywords": [
+                                "internet",
+                                "Wi-Fi",
+                                "network",
+                                "互联网",
+                                "网络"
+                            ],
+                            "related_links": [
+                                "https://sa.hkbu.edu.hk/"
+                            ]
+                        },
+                        {
+                            "id": "accom_life_006",
+                            "question": "Cooking facilities?",
+                            "question_zh": "烹饪设施如何？",
+                            "answer": "A kitchenette equipped with a twin-head induction cooker is provided in the Lounge on each domestic floor with refrigerators and microwave oven.",
+                            "answer_zh": "每层宿舍楼的休息室都配有配备双头电磁炉的小厨房，以及冰箱和微波炉。",
+                            "keywords": [
+                                "cooking",
+                                "kitchenette",
+                                "烹饪",
+                                "小厨房"
+                            ],
+                            "related_links": [
+                                "https://sa.hkbu.edu.hk/"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "it_services",
+            "name": "IT Services & Email",
+            "name_zh": "IT服务与电子邮件",
+            "description": "Information about university IT services, email, and technical support",
+            "description_zh": "有关大学IT服务、电子邮件和技术支持的信息",
+            "faqs": [
+                {
+                    "id": "it_001",
+                    "question": "What is SSOid?",
+                    "question_zh": "什么是SSOid？",
+                    "answer": "SSOid (Single-Sign-On user ID) is a unique login account for accessing all central IT services including HKBU email, Student Information System (SIS), Library System, and other IT resources.",
+                    "answer_zh": "SSOid（单点登录用户ID）是访问所有中央IT服务的唯一登录账户名，包括HKBU电子邮件、学生信息系统(SIS)、图书馆系统和其他IT资源。",
+                    "keywords": [
+                        "SSOid",
+                        "single sign-on",
+                        "login",
+                        "登录"
+                    ],
+                    "related_links": [
+                        "https://ito.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "it_002",
+                    "question": "What is the format of student email address?",
+                    "question_zh": "学生电子邮件地址的格式是什么？",
+                    "answer": "Every student is given a University email account in the format of 'student number@life.hkbu.edu.hk'.",
+                    "answer_zh": "每位学生都有一个大学电子邮件账户，格式为'学号@life.hkbu.edu.hk'。",
+                    "keywords": [
+                        "email address",
+                        "format",
+                        "life.hkbu.edu.hk",
+                        "电子邮件地址",
+                        "格式"
+                    ],
+                    "related_links": [
+                        "https://ito.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "it_003",
+                    "question": "How to access HKBU email?",
+                    "question_zh": "如何访问HKBU电子邮件？",
+                    "answer": "Login to https://outlook.office.com/mail/ to access your email account. Email service is hosted by Microsoft Office 365 (O365).",
+                    "answer_zh": "登录 https://outlook.office.com/mail/ 访问您的电子邮件账户。电子邮件服务由Microsoft Office 365 (O365)托管。",
+                    "keywords": [
+                        "access email",
+                        "Outlook",
+                        "Office 365",
+                        "访问邮件"
+                    ],
+                    "related_links": [
+                        "https://outlook.office.com/mail/"
+                    ]
+                },
+                {
+                    "id": "it_004",
+                    "question": "When should students activate SSOid account?",
+                    "question_zh": "学生何时应该激活SSOid账户？",
+                    "answer": "Students must activate their SSOid account immediately after receiving their student number, typically through an online activation process.",
+                    "answer_zh": "学生必须在收到学号后立即激活SSOid账户，通常通过在线激活过程。",
+                    "keywords": [
+                        "activate",
+                        "account",
+                        "激活",
+                        "账户"
+                    ],
+                    "related_links": [
+                        "https://ito.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "it_005",
+                    "question": "What is Two-Factor Authentication (2FA)?",
+                    "question_zh": "什么是双因素认证(2FA)？",
+                    "answer": "Two-Factor Authentication (2FA) is required for accessing HKBU email and other critical IT resources. Students must register their first 2FA device using a smartphone and enable 2FA before accessing these services.",
+                    "answer_zh": "访问HKBU电子邮件和其他关键IT资源需要双因素认证(2FA)。学生必须使用智能手机注册第一个2FA设备，并在访问这些服务之前启用2FA。",
+                    "keywords": [
+                        "2FA",
+                        "two-factor authentication",
+                        "security",
+                        "双因素认证",
+                        "安全"
+                    ],
+                    "related_links": [
+                        "https://ito.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "it_006",
+                    "question": "How many devices can students install Microsoft Office on?",
+                    "question_zh": "学生可以在多少设备上安装Microsoft Office？",
+                    "answer": "Students are entitled to install Microsoft Office 365 Professional Plus on up to five personal devices at no cost.",
+                    "answer_zh": "学生有权在最多五台个人设备上免费安装Microsoft Office 365 Professional Plus。",
+                    "keywords": [
+                        "Microsoft Office",
+                        "Office 365",
+                        "installation",
+                        "安装"
+                    ],
+                    "related_links": [
+                        "https://ito.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "it_007",
+                    "question": "How to contact IT support?",
+                    "question_zh": "如何联系IT支持？",
+                    "answer": "Contact Office of Information Technology (ITO): Phone: 3411 7899, Email: hotline@hkbu.edu.hk, Location: Room RRS303, Sir Run Run Shaw Building, Ho Sin Hang Campus.",
+                    "answer_zh": "联系信息技术办公室(ITO)：电话：3411 7899，电子邮件：hotline@hkbu.edu.hk，地点：何善衡校园邵逸夫大楼RRS303室。",
+                    "keywords": [
+                        "IT support",
+                        "helpdesk",
+                        "hotline",
+                        "IT支持",
+                        "服务台"
+                    ],
+                    "related_links": [
+                        "mailto:hotline@hkbu.edu.hk"
+                    ]
+                },
+                {
+                    "id": "it_008",
+                    "question": "What happens to email account after graduation?",
+                    "question_zh": "毕业后电子邮件账户会怎样？",
+                    "answer": "The University provides life-long online email service via Outlook webmail for students and alumni after graduation, with unchanged login credentials.",
+                    "answer_zh": "大学通过Outlook网络邮件为学生和校友提供终身在线电子邮件服务，登录凭据保持不变。",
+                    "keywords": [
+                        "graduation",
+                        "alumni",
+                        "lifetime email",
+                        "毕业",
+                        "校友",
+                        "终身邮箱"
+                    ],
+                    "related_links": [
+                        "https://ito.hkbu.edu.hk/"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "library",
+            "name": "Library Services",
+            "name_zh": "图书馆服务",
+            "description": "Information about library hours, facilities, and services",
+            "description_zh": "有关图书馆开放时间、设施和服务的信息",
+            "faqs": [
+                {
+                    "id": "lib_001",
+                    "question": "What are the regular library opening hours?",
+                    "question_zh": "图书馆的常规开放时间是什么？",
+                    "answer": "Main Library Service Hours: Weekdays: 8:30 a.m. – 11:00 p.m. (Counter: 9:00 a.m. – 10:30 p.m.), Saturdays: 9:00 a.m. – 9:00 p.m. (Counter: 10:00 a.m. – 7:00 p.m.).",
+                    "answer_zh": "主图书馆服务时间：平日：上午8:30 - 晚上11:00（柜台：上午9:00 - 晚上10:30），星期六：上午9:00 - 晚上9:00（柜台：上午10:00 - 晚上7:00）。",
+                    "keywords": [
+                        "opening hours",
+                        "library hours",
+                        "开放时间"
+                    ],
+                    "related_links": [
+                        "https://library.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "lib_002",
+                    "question": "Is the Academic Commons open 24 hours?",
+                    "question_zh": "学术共享空间24小时开放吗？",
+                    "answer": "Yes, the Main Library's Academic Commons on Levels 2 and 3 remains open 24 hours a day during the semester, with access through the main entrance on Level 3.",
+                    "answer_zh": "是的，在学期期间，主图书馆2层和3层的学术共享空间每天24小时开放，通过3层的主入口进入。",
+                    "keywords": [
+                        "24 hours",
+                        "Academic Commons",
+                        "study space",
+                        "24小时",
+                        "学术共享空间",
+                        "学习空间"
+                    ],
+                    "related_links": [
+                        "https://library.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "lib_003",
+                    "question": "Are food and drinks allowed in the library?",
+                    "question_zh": "图书馆内允许饮食吗？",
+                    "answer": "Non-alcoholic drinks are permitted in most areas, but food is prohibited anywhere in the Library, including the Academic Commons.",
+                    "answer_zh": "大多数区域允许非酒精饮料，但图书馆任何地方都禁止食物，包括学术共享空间。",
+                    "keywords": [
+                        "food",
+                        "drinks",
+                        "rules",
+                        "食物",
+                        "饮料",
+                        "规则"
+                    ],
+                    "related_links": [
+                        "https://library.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "lib_004",
+                    "question": "Can I take photos or videos in the library?",
+                    "question_zh": "我可以在图书馆拍照或录像吗？",
+                    "answer": "Filming, recording, or photography using professional equipment requires prior approval, and such activities are prohibited in the SCA reading area. Personal event photography is not approved.",
+                    "answer_zh": "使用专业设备的拍摄、录音或摄影需要事先批准，在特藏与档案馆阅览室禁止此类活动。不批准个人活动摄影。",
+                    "keywords": [
+                        "photography",
+                        "filming",
+                        "recording",
+                        "摄影",
+                        "拍摄",
+                        "录像"
+                    ],
+                    "related_links": [
+                        "https://library.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "lib_005",
+                    "question": "How to contact the library for help?",
+                    "question_zh": "如何联系图书馆寻求帮助？",
+                    "answer": "Users can contact the Library via in-person visits, phone, email, WhatsApp, or Facebook Messenger, or use the online enquiry form, with responses within one working day.",
+                    "answer_zh": "用户可以通过以下方式联系图书馆：亲自访问、电话、电子邮件、WhatsApp或Facebook Messenger，或使用在线查询表格，将在一个工作日内提供回复。",
+                    "keywords": [
+                        "contact",
+                        "help",
+                        "enquiry",
+                        "联系",
+                        "帮助",
+                        "查询"
+                    ],
+                    "related_links": [
+                        "https://library.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "lib_006",
+                    "question": "Can I view HKBUtube videos off-campus?",
+                    "question_zh": "我可以在校外观看HKBUtube的视频吗？",
+                    "answer": "Yes, users can view videos from HKBUtube off-campus by logging in with their library account, as long as they are current HKBU staff or students.",
+                    "answer_zh": "可以，只要您是现任HKBU教职工或学生，就可以通过使用图书馆账户登录在校外观看HKBUtube的视频。",
+                    "keywords": [
+                        "HKBUtube",
+                        "videos",
+                        "off-campus",
+                        "视频",
+                        "校外"
+                    ],
+                    "related_links": [
+                        "http://hkbutube.lib.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "lib_007",
+                    "question": "Can archival materials be borrowed?",
+                    "question_zh": "档案材料可以外借吗？",
+                    "answer": "Materials are not available for loan and must be used within the SCA reading area, which is a silent zone. Borrowing of post-1949 published materials in good condition is allowed for two weeks. Overdue fines are charged at $2 per calendar day.",
+                    "answer_zh": "材料不可外借，必须在SCA阅览区内使用，这是一个安静区。状况良好的1949年后出版材料可以借阅两周。逾期罚款为每日历日$2。",
+                    "keywords": [
+                        "borrowing",
+                        "archival materials",
+                        "SCA",
+                        "外借",
+                        "档案材料"
+                    ],
+                    "related_links": [
+                        "https://library.hkbu.edu.hk/"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "graduate_school",
+            "name": "Graduate School - Current Students",
+            "name_zh": "研究生院 - 在读学生",
+            "source_url": "https://gs.hkbu.edu.hk/en/current-students/faqs",
+            "faqs": [
+                {
+                    "id": "gs_001",
+                    "category": "Certifying Documents",
+                    "category_zh": "文件认证",
+                    "question": "Does the University certify copies of documents?",
+                    "question_zh": "大学是否认证文件副本？",
+                    "answer": "The University certifies diploma copies for HK$50 each. Paper transcripts/testimonials are available but not certified. Digital credentials (2020 graduates onward) can be verified through the HKBU Digital Credential System.",
+                    "answer_zh": "大学认证毕业证书副本，每份HK$50。纸质成绩单/证明可提供但不认证。2020年起的毕业生可通过HKBU数字证书系统验证数字证书。",
+                    "keywords": [
+                        "certify",
+                        "documents",
+                        "diploma",
+                        "digital credential",
+                        "认证",
+                        "文件",
+                        "毕业证书",
+                        "数字证书"
+                    ],
+                    "related_links": [
+                        "https://gs.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "gs_002",
+                    "category": "Transcripts & Testimonials",
+                    "category_zh": "成绩单与证明",
+                    "question": "How do I obtain transcripts or testimonials?",
+                    "question_zh": "如何获取成绩单或证明？",
+                    "answer": "Apply through the online platform at gstran.hkbu.edu.hk. Paper transcripts take 7 working days; electronic versions are immediate for 2020+ graduates; testimonials take 7-10 working days.",
+                    "answer_zh": "通过在线平台gstran.hkbu.edu.hk申请。纸质成绩单需7个工作日；2020年及之后毕业生的电子版本立即可得；证明需7-10个工作日。",
+                    "keywords": [
+                        "transcripts",
+                        "testimonials",
+                        "apply",
+                        "online",
+                        "成绩单",
+                        "证明",
+                        "申请",
+                        "在线"
+                    ],
+                    "related_links": [
+                        "https://gstran.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "gs_003",
+                    "category": "Administrative Changes",
+                    "category_zh": "行政变更",
+                    "question": "How do I update my address?",
+                    "question_zh": "如何更新我的地址？",
+                    "answer": "Current students can update address information via BUniPort platform or submit a change-of-address form with ID verification.",
+                    "answer_zh": "在读学生可通过BUniPort平台更新地址信息，或提交带身份证明的地址变更表格。",
+                    "keywords": [
+                        "address",
+                        "update",
+                        "BUniPort",
+                        "地址",
+                        "更新"
+                    ],
+                    "related_links": [
+                        "https://buniport.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "gs_004",
+                    "category": "Student Card",
+                    "category_zh": "学生证",
+                    "question": "I lost my student card. Can I replace it?",
+                    "question_zh": "我丢失了学生证，可以补办吗？",
+                    "answer": "Yes, apply for replacement through the Graduate School with a HK$100 fee.",
+                    "answer_zh": "可以，通过研究生院申请补办，需支付HK$100费用。",
+                    "keywords": [
+                        "student card",
+                        "lost",
+                        "replacement",
+                        "fee",
+                        "学生证",
+                        "丢失",
+                        "补办",
+                        "费用"
+                    ],
+                    "related_links": [
+                        "https://gs.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "gs_005",
+                    "category": "Diploma Replacement",
+                    "category_zh": "毕业证书补办",
+                    "question": "I lost my diploma. What are my options?",
+                    "question_zh": "我丢失了毕业证书，有什么办法？",
+                    "answer": "Request a replacement diploma through the academic records office following established procedures.",
+                    "answer_zh": "通过学术记录办公室按既定程序申请补办毕业证书。",
+                    "keywords": [
+                        "diploma",
+                        "lost",
+                        "replacement",
+                        "毕业证书",
+                        "丢失",
+                        "补办"
+                    ],
+                    "related_links": [
+                        "https://gs.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "gs_006",
+                    "category": "Study Status",
+                    "category_zh": "学习状态",
+                    "question": "What's the difference between official and unofficial withdrawal?",
+                    "question_zh": "正式退学和非正式退学有什么区别？",
+                    "answer": "Official withdrawal requires formal notification and clearance. Unofficial withdrawal prevents document issuance and re-admission.",
+                    "answer_zh": "正式退学需要正式通知和结算。非正式退学将阻止文件签发和重新入学。",
+                    "keywords": [
+                        "withdrawal",
+                        "official",
+                        "unofficial",
+                        "退学",
+                        "正式",
+                        "非正式"
+                    ],
+                    "related_links": [
+                        "https://gs.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "gs_007",
+                    "category": "Study Suspension",
+                    "category_zh": "休学",
+                    "question": "Can I suspend my studies?",
+                    "question_zh": "我可以休学吗？",
+                    "answer": "Yes, for health, financial, or family reasons—up to two semesters with approval.",
+                    "answer_zh": "可以，因健康、经济或家庭原因可休学，经批准最多两个学期。",
+                    "keywords": [
+                        "suspension",
+                        "health",
+                        "financial",
+                        "family",
+                        "休学",
+                        "健康",
+                        "经济",
+                        "家庭"
+                    ],
+                    "related_links": [
+                        "https://gs.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "gs_008",
+                    "category": "Course Withdrawal",
+                    "category_zh": "退课",
+                    "question": "How do I withdraw from a course after the deadline?",
+                    "question_zh": "如何在截止日期后退课？",
+                    "answer": "Submit a withdrawal application at least four weeks before semester exams if experiencing physical or academic difficulties.",
+                    "answer_zh": "如遇身体或学业困难，在学期考试前至少四周提交退课申请。",
+                    "keywords": [
+                        "course withdrawal",
+                        "deadline",
+                        "exam",
+                        "退课",
+                        "截止日期",
+                        "考试"
+                    ],
+                    "related_links": [
+                        "https://gs.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "gs_009",
+                    "category": "Course Registration",
+                    "category_zh": "课程注册",
+                    "question": "What are course registration procedures?",
+                    "question_zh": "课程注册程序是什么？",
+                    "answer": "Complete the add/drop/withdrawal application form. External courses use the Cross-institutional Course Enrolment Scheme.",
+                    "answer_zh": "填写加课/退课/撤课申请表。外校课程使用跨校选课计划。",
+                    "keywords": [
+                        "course registration",
+                        "add/drop",
+                        "cross-institutional",
+                        "课程注册",
+                        "加退课",
+                        "跨校"
+                    ],
+                    "related_links": [
+                        "https://gs.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "gs_010",
+                    "category": "Lost Property",
+                    "category_zh": "失物招领",
+                    "question": "Where do I report lost campus belongings?",
+                    "question_zh": "在哪里报告校园遗失物品？",
+                    "answer": "Contact the University's Lost and Found service through the Security Control Centre.",
+                    "answer_zh": "通过保安控制中心联系大学失物招领服务。",
+                    "keywords": [
+                        "lost property",
+                        "lost and found",
+                        "security",
+                        "失物",
+                        "失物招领",
+                        "保安"
+                    ],
+                    "related_links": [
+                        "https://www.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "gs_011",
+                    "category": "Proof of Graduation",
+                    "category_zh": "毕业证明",
+                    "question": "What if I need proof of graduation before receiving my diploma?",
+                    "question_zh": "如果在收到毕业证书前需要毕业证明怎么办？",
+                    "answer": "Graduates receive a graduation letter after Senate approval. Additional documentation can be obtained by applying for a testimonial.",
+                    "answer_zh": "毕业生在参议院批准后收到毕业信。可通过申请证明获得额外文件。",
+                    "keywords": [
+                        "graduation",
+                        "proof",
+                        "testimonial",
+                        "毕业",
+                        "证明"
+                    ],
+                    "related_links": [
+                        "https://gs.hkbu.edu.hk/"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "financial_aid",
+            "name": "Financial Aid & Scholarships",
+            "name_zh": "财务资助与奖学金",
+            "source_url": "https://sa.hkbu.edu.hk/en/sfa/faq.html",
+            "faqs": [
+                {
+                    "id": "fa_001",
+                    "category": "University Bursaries & Loans",
+                    "category_zh": "大学助学金与贷款",
+                    "question": "Can I apply for both University Bursaries/Loans and government grant/loan?",
+                    "question_zh": "我可以同时申请大学助学金/贷款和政府资助/贷款吗？",
+                    "answer": "Yes, eligible students may apply for both schemes in the same academic year.",
+                    "answer_zh": "可以，符合条件的学生可在同一学年申请两种计划。",
+                    "keywords": [
+                        "bursaries",
+                        "loans",
+                        "government grant",
+                        "助学金",
+                        "贷款",
+                        "政府资助"
+                    ],
+                    "related_links": [
+                        "https://sa.hkbu.edu.hk/en/sfa/"
+                    ]
+                },
+                {
+                    "id": "fa_002",
+                    "category": "Application Timing",
+                    "category_zh": "申请时间",
+                    "question": "When should I apply for University Bursaries and Loans?",
+                    "question_zh": "何时申请大学助学金和贷款？",
+                    "answer": "The Office of Student Affairs typically invites applications in August/September. Students should monitor email announcements and the university website for details.",
+                    "answer_zh": "学生事务处通常在8月/9月邀请申请。学生应关注电子邮件通知和大学网站以获取详情。",
+                    "keywords": [
+                        "application",
+                        "timing",
+                        "August",
+                        "September",
+                        "申请",
+                        "时间",
+                        "八月",
+                        "九月"
+                    ],
+                    "related_links": [
+                        "https://sa.hkbu.edu.hk/en/sfa/"
+                    ]
+                },
+                {
+                    "id": "fa_003",
+                    "category": "Scholarship Certificate",
+                    "category_zh": "奖学金证书",
+                    "question": "How do I obtain a scholarship certificate?",
+                    "question_zh": "如何获得奖学金证书？",
+                    "answer": "Generate an e-certificate through the Student Learning Experience System (SLES) by accessing 'My Record' > 'Achievement Certificate.' This document serves as official proof of awards received.",
+                    "answer_zh": "通过学生学习体验系统(SLES)生成电子证书，访问'我的记录'>'成就证书'。此文件作为获奖的官方证明。",
+                    "keywords": [
+                        "scholarship",
+                        "certificate",
+                        "SLES",
+                        "e-certificate",
+                        "奖学金",
+                        "证书",
+                        "电子证书"
+                    ],
+                    "related_links": [
+                        "https://sa.hkbu.edu.hk/en/sfa/"
+                    ]
+                },
+                {
+                    "id": "fa_004",
+                    "category": "Postgraduate Financial Assistance",
+                    "category_zh": "研究生财务资助",
+                    "question": "Are postgraduate students eligible for financial assistance?",
+                    "question_zh": "研究生是否有资格获得财务资助？",
+                    "answer": "Yes. Full-time UGC-funded postgraduate students can access government schemes. Most full-time MPhil and PhD students receive studentships. Contact the Graduate School for details.",
+                    "answer_zh": "是的。全日制UGC资助的研究生可申请政府计划。大多数全日制硕士和博士生获得助学金。详情请联系研究生院。",
+                    "keywords": [
+                        "postgraduate",
+                        "financial assistance",
+                        "studentship",
+                        "研究生",
+                        "财务资助",
+                        "助学金"
+                    ],
+                    "related_links": [
+                        "https://gs.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "fa_005",
+                    "category": "University Scholarships",
+                    "category_zh": "大学奖学金",
+                    "question": "How do I apply for university scholarships?",
+                    "question_zh": "如何申请大学奖学金？",
+                    "answer": "Scholarships are awarded based on academic merit and donor criteria. Visit the SFA website for currently available opportunities and application procedures.",
+                    "answer_zh": "奖学金根据学业成绩和捐赠者标准颁发。访问SFA网站了解当前可用机会和申请程序。",
+                    "keywords": [
+                        "scholarship",
+                        "application",
+                        "merit",
+                        "奖学金",
+                        "申请",
+                        "成绩"
+                    ],
+                    "related_links": [
+                        "https://sa.hkbu.edu.hk/en/sfa/"
+                    ]
+                },
+                {
+                    "id": "fa_006",
+                    "category": "General Scholarships",
+                    "category_zh": "通用奖学金",
+                    "question": "What are the 2025/26 General Scholarships eligibility requirements?",
+                    "question_zh": "2025/26通用奖学金的资格要求是什么？",
+                    "answer": "Full-time UGC-funded undergraduates with 3.0+ cumulative GPA who studied on campus during 2024-25 may apply. Deadline: September 30, 2025, 5:30 PM.",
+                    "answer_zh": "2024-25年度在校就读的全日制UGC资助本科生，累计GPA 3.0以上可申请。截止日期：2025年9月30日下午5:30。",
+                    "keywords": [
+                        "general scholarship",
+                        "GPA",
+                        "eligibility",
+                        "deadline",
+                        "通用奖学金",
+                        "绩点",
+                        "资格",
+                        "截止日期"
+                    ],
+                    "related_links": [
+                        "https://sa.hkbu.edu.hk/en/sfa/"
+                    ]
+                },
+                {
+                    "id": "fa_007",
+                    "category": "Government Grant & Loan",
+                    "category_zh": "政府资助与贷款",
+                    "question": "Am I eligible for government financial assistance?",
+                    "question_zh": "我是否有资格获得政府财务资助？",
+                    "answer": "The Student Finance Office administers multiple schemes including TSFS, FASP, and non-means-tested loan programs for eligible local students.",
+                    "answer_zh": "学生资助办事处管理多个计划，包括TSFS、FASP和非经济审查贷款计划，适用于符合条件的本地学生。",
+                    "keywords": [
+                        "government",
+                        "financial assistance",
+                        "TSFS",
+                        "FASP",
+                        "政府",
+                        "财务资助"
+                    ],
+                    "related_links": [
+                        "https://www.wfsfaa.gov.hk/"
+                    ]
+                },
+                {
+                    "id": "fa_008",
+                    "category": "Appeal Process",
+                    "category_zh": "申诉程序",
+                    "question": "Can I appeal a government grant/loan decision?",
+                    "question_zh": "我可以对政府资助/贷款决定提出申诉吗？",
+                    "answer": "Yes, submit a review request to the Government Student Finance Office within three weeks using their appeal form with supporting documentation.",
+                    "answer_zh": "可以，在三周内使用申诉表格并附上证明文件向政府学生资助办事处提交审查请求。",
+                    "keywords": [
+                        "appeal",
+                        "review",
+                        "government",
+                        "申诉",
+                        "审查",
+                        "政府"
+                    ],
+                    "related_links": [
+                        "https://www.wfsfaa.gov.hk/"
+                    ]
+                },
+                {
+                    "id": "fa_009",
+                    "category": "Personal Data Update",
+                    "category_zh": "个人数据更新",
+                    "question": "Must I notify SFO of address/contact changes?",
+                    "question_zh": "我必须通知学生资助办事处地址/联系方式变更吗？",
+                    "answer": "Yes, immediately submit the 'Notification of Change of Personal Data' form to SFO and update information through BUniPort.",
+                    "answer_zh": "是的，立即向学生资助办事处提交'个人数据变更通知'表格，并通过BUniPort更新信息。",
+                    "keywords": [
+                        "address change",
+                        "contact",
+                        "notification",
+                        "地址变更",
+                        "联系方式",
+                        "通知"
+                    ],
+                    "related_links": [
+                        "https://www.wfsfaa.gov.hk/",
+                        "https://buniport.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "fa_010",
+                    "category": "Student Travel Subsidy",
+                    "category_zh": "学生交通津贴",
+                    "question": "How do I apply for Student Travel Subsidy?",
+                    "question_zh": "如何申请学生交通津贴？",
+                    "answer": "Apply through either TSFS or FASP. Students on paid placements, internships, overseas programs, or residing in halls during term are ineligible. Visit SFO's website for details.",
+                    "answer_zh": "通过TSFS或FASP申请。有薪实习、海外课程或学期间住宿舍的学生不符合资格。详情请访问学生资助办事处网站。",
+                    "keywords": [
+                        "travel subsidy",
+                        "TSFS",
+                        "FASP",
+                        "交通津贴"
+                    ],
+                    "related_links": [
+                        "https://www.wfsfaa.gov.hk/"
+                    ]
+                },
+                {
+                    "id": "fa_011",
+                    "category": "Tuition Fee Deferral",
+                    "category_zh": "学费延期",
+                    "question": "How can I apply for tuition fee deferral?",
+                    "question_zh": "如何申请学费延期？",
+                    "answer": "Undergraduate students awaiting government aid results can apply online. Those with emergency financial needs submit a special application form to the Office of Student Affairs at least three working days before the payment deadline.",
+                    "answer_zh": "等待政府资助结果的本科生可在线申请。有紧急经济需求的学生在付款截止日期前至少三个工作日向学生事务处提交特别申请表。",
+                    "keywords": [
+                        "tuition fee",
+                        "deferral",
+                        "payment",
+                        "学费",
+                        "延期",
+                        "付款"
+                    ],
+                    "related_links": [
+                        "https://sa.hkbu.edu.hk/en/sfa/"
+                    ]
+                },
+                {
+                    "id": "fa_012",
+                    "category": "Fee Deferral Eligibility",
+                    "category_zh": "学费延期资格",
+                    "question": "Who is eligible for tuition fee deferral?",
+                    "question_zh": "谁有资格申请学费延期？",
+                    "answer": "Students demonstrating financial hardship who cannot pay tuition on time may apply before the due date.",
+                    "answer_zh": "无法按时支付学费且证明有经济困难的学生可在截止日期前申请。",
+                    "keywords": [
+                        "eligibility",
+                        "financial hardship",
+                        "资格",
+                        "经济困难"
+                    ],
+                    "related_links": [
+                        "https://sa.hkbu.edu.hk/en/sfa/"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "library_services",
+            "name": "Library Services",
+            "name_zh": "图书馆服务",
+            "source_url": "https://library.hkbu.edu.hk/",
+            "faqs": [
+                {
+                    "id": "lib_001",
+                    "category": "Borrowing Quotas",
+                    "category_zh": "借阅限额",
+                    "question": "What are the borrowing quotas for different user types?",
+                    "question_zh": "不同用户类型的借阅限额是多少？",
+                    "answer": "Postgraduate: 300 items (40 holds), Undergraduate: 200 items (30 holds), Academic Staff: 400 items (50 holds), Non-teaching Staff: 100 items (20 holds).",
+                    "answer_zh": "研究生：300本（40个预约），本科生：200本（30个预约），教学人员：400本（50个预约），非教学人员：100本（20个预约）。",
+                    "keywords": [
+                        "borrowing quota",
+                        "loan limit",
+                        "借阅限额",
+                        "借书数量"
+                    ],
+                    "related_links": [
+                        "https://library.hkbu.edu.hk/services/borrowing-returning/"
+                    ]
+                },
+                {
+                    "id": "lib_002",
+                    "category": "Loan Period",
+                    "category_zh": "借阅期限",
+                    "question": "What is the loan period for general collection books?",
+                    "question_zh": "普通藏书的借阅期限是多久？",
+                    "answer": "20 weeks with unlimited renewals. Items are subject to recall and loan periods may be shortened.",
+                    "answer_zh": "20周，可无限续借。图书可被召回，借阅期可能缩短。",
+                    "keywords": [
+                        "loan period",
+                        "20 weeks",
+                        "renewal",
+                        "借阅期限",
+                        "20周",
+                        "续借"
+                    ],
+                    "related_links": [
+                        "https://library.hkbu.edu.hk/services/borrowing-returning/"
+                    ]
+                },
+                {
+                    "id": "lib_003",
+                    "category": "Required Documentation",
+                    "category_zh": "所需文件",
+                    "question": "What do I need to borrow library materials?",
+                    "question_zh": "借阅图书馆资料需要什么？",
+                    "answer": "Users must possess a valid University ID card as defined in the Library Regulations.",
+                    "answer_zh": "用户必须持有图书馆规定的有效大学身份证。",
+                    "keywords": [
+                        "ID card",
+                        "borrow",
+                        "requirement",
+                        "身份证",
+                        "借阅",
+                        "要求"
+                    ],
+                    "related_links": [
+                        "https://library.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "lib_004",
+                    "category": "Popular Books",
+                    "category_zh": "热门书籍",
+                    "question": "What are the rules for borrowing popular books?",
+                    "question_zh": "借阅热门书籍的规则是什么？",
+                    "answer": "14-day loan period, renewable to 28 days maximum. No reservations permitted.",
+                    "answer_zh": "14天借阅期，最多可续借至28天。不允许预约。",
+                    "keywords": [
+                        "popular books",
+                        "14 days",
+                        "no reservation",
+                        "热门书籍",
+                        "14天",
+                        "不可预约"
+                    ],
+                    "related_links": [
+                        "https://library.hkbu.edu.hk/services/borrowing-returning/"
+                    ]
+                },
+                {
+                    "id": "lib_005",
+                    "category": "Course Readings",
+                    "category_zh": "课程读物",
+                    "question": "How long can I borrow course reading materials?",
+                    "question_zh": "课程读物可以借多久？",
+                    "answer": "Up to 2 items per checkout. Loan periods: 4 to 48 hours. 4-hour items may be kept overnight if checked out within 4 hours before closing.",
+                    "answer_zh": "每次最多借2件。借阅期限：4至48小时。闭馆前4小时内借出的4小时资料可过夜保留。",
+                    "keywords": [
+                        "course readings",
+                        "4 hours",
+                        "48 hours",
+                        "overnight",
+                        "课程读物",
+                        "4小时",
+                        "48小时",
+                        "过夜"
+                    ],
+                    "related_links": [
+                        "https://library.hkbu.edu.hk/services/borrowing-returning/"
+                    ]
+                },
+                {
+                    "id": "lib_006",
+                    "category": "Multimedia Materials",
+                    "category_zh": "多媒体资料",
+                    "question": "What are the borrowing rules for multimedia materials?",
+                    "question_zh": "多媒体资料的借阅规则是什么？",
+                    "answer": "14-day loan period, renewable to 28 days. Staff: 60-item quota, Students: 30-item quota, Graduates/External users: 5-item quota. For personal use only.",
+                    "answer_zh": "14天借阅期，可续借至28天。教职员：60件限额，学生：30件限额，毕业生/校外用户：5件限额。仅供个人使用。",
+                    "keywords": [
+                        "multimedia",
+                        "14 days",
+                        "personal use",
+                        "多媒体",
+                        "14天",
+                        "个人使用"
+                    ],
+                    "related_links": [
+                        "https://library.hkbu.edu.hk/services/borrowing-returning/"
+                    ]
+                },
+                {
+                    "id": "lib_007",
+                    "category": "Interlibrary Loan",
+                    "category_zh": "馆际互借",
+                    "question": "What is Interlibrary Loan (ILL) and HKALL?",
+                    "question_zh": "什么是馆际互借(ILL)和HKALL？",
+                    "answer": "These services let eligible users request books, articles, and theses unavailable at HKBU from other local or overseas libraries through a unified request system.",
+                    "answer_zh": "这些服务让符合条件的用户通过统一请求系统从其他本地或海外图书馆请求HKBU没有的书籍、文章和论文。",
+                    "keywords": [
+                        "interlibrary loan",
+                        "ILL",
+                        "HKALL",
+                        "馆际互借"
+                    ],
+                    "related_links": [
+                        "https://library.hkbu.edu.hk/services/access-resources-beyond-hkbu-library/"
+                    ]
+                },
+                {
+                    "id": "lib_008",
+                    "category": "ILL Eligibility",
+                    "category_zh": "馆际互借资格",
+                    "question": "Who can use interlibrary loan services?",
+                    "question_zh": "谁可以使用馆际互借服务？",
+                    "answer": "Staff members, postgraduate students, undergraduates, and SCE/SCM students with appropriate HKBU affiliation are eligible, subject to specific quota limits.",
+                    "answer_zh": "教职员、研究生、本科生和具有适当HKBU身份的SCE/SCM学生符合条件，但有特定限额。",
+                    "keywords": [
+                        "eligibility",
+                        "staff",
+                        "students",
+                        "资格",
+                        "教职员",
+                        "学生"
+                    ],
+                    "related_links": [
+                        "https://library.hkbu.edu.hk/services/access-resources-beyond-hkbu-library/"
+                    ]
+                },
+                {
+                    "id": "lib_009",
+                    "category": "ILL Loan Period",
+                    "category_zh": "馆际互借期限",
+                    "question": "How long can I borrow interlibrary loan items?",
+                    "question_zh": "馆际互借的资料可以借多久？",
+                    "answer": "Physical items typically loan for 15-30 days from local UGC libraries; overseas items range 14-28 days depending on lending policies.",
+                    "answer_zh": "本地UGC图书馆的实物资料通常借15-30天；海外资料根据借出政策为14-28天。",
+                    "keywords": [
+                        "loan period",
+                        "local",
+                        "overseas",
+                        "借阅期限",
+                        "本地",
+                        "海外"
+                    ],
+                    "related_links": [
+                        "https://library.hkbu.edu.hk/services/access-resources-beyond-hkbu-library/"
+                    ]
+                },
+                {
+                    "id": "lib_010",
+                    "category": "ILL Renewal",
+                    "category_zh": "馆际互借续借",
+                    "question": "Can I renew interlibrary loan items?",
+                    "question_zh": "可以续借馆际互借的资料吗？",
+                    "answer": "Yes, local UGC library books may renew up to maximum loan length unless recalled, subject to lending library approval. Submit requests via My Library Account at least one week before the due date.",
+                    "answer_zh": "可以，本地UGC图书馆的书籍可续借至最大借阅期限，除非被召回，需借出图书馆批准。至少在到期前一周通过我的图书馆账户提交请求。",
+                    "keywords": [
+                        "renewal",
+                        "recalled",
+                        "My Library Account",
+                        "续借",
+                        "召回",
+                        "我的图书馆账户"
+                    ],
+                    "related_links": [
+                        "https://library.hkbu.edu.hk/services/access-resources-beyond-hkbu-library/"
+                    ]
+                },
+                {
+                    "id": "lib_011",
+                    "category": "ILL Copyright",
+                    "category_zh": "馆际互借版权",
+                    "question": "Are there copyright restrictions for interlibrary loan?",
+                    "question_zh": "馆际互借有版权限制吗？",
+                    "answer": "Yes. Resources must be used solely for research/private study. Effective January 1, 2026, users requesting article copies may need to submit signed copyright declaration forms within 24 hours of notification.",
+                    "answer_zh": "是的。资源必须仅用于研究/私人学习。自2026年1月1日起，请求文章副本的用户可能需要在收到通知后24小时内提交签署的版权声明表。",
+                    "keywords": [
+                        "copyright",
+                        "declaration",
+                        "research",
+                        "版权",
+                        "声明",
+                        "研究"
+                    ],
+                    "related_links": [
+                        "https://library.hkbu.edu.hk/services/access-resources-beyond-hkbu-library/"
+                    ]
+                },
+                {
+                    "id": "lib_012",
+                    "category": "ILL Costs",
+                    "category_zh": "馆际互借费用",
+                    "question": "Are there service charges for interlibrary loan?",
+                    "question_zh": "馆际互借有服务费吗？",
+                    "answer": "Most requests are fully subsidized for eligible users. Some requests exceeding subsidy limits may require additional payment.",
+                    "answer_zh": "大多数请求对符合条件的用户完全补贴。一些超出补贴限额的请求可能需要额外付款。",
+                    "keywords": [
+                        "service charge",
+                        "subsidized",
+                        "payment",
+                        "服务费",
+                        "补贴",
+                        "付款"
+                    ],
+                    "related_links": [
+                        "https://library.hkbu.edu.hk/services/access-resources-beyond-hkbu-library/"
+                    ]
+                },
+                {
+                    "id": "lib_013",
+                    "category": "ILL Overdue Fines",
+                    "category_zh": "馆际互借逾期罚款",
+                    "question": "What are overdue penalties for interlibrary loan items?",
+                    "question_zh": "馆际互借资料的逾期罚款是多少？",
+                    "answer": "Local UGC library books incur HK$2 daily (max HK$100); recalled items cost HK$4 daily (max HK$100). Other library fines follow their policies.",
+                    "answer_zh": "本地UGC图书馆书籍每天HK$2（最高HK$100）；被召回的资料每天HK$4（最高HK$100）。其他图书馆罚款遵循其政策。",
+                    "keywords": [
+                        "overdue",
+                        "fine",
+                        "penalty",
+                        "逾期",
+                        "罚款"
+                    ],
+                    "related_links": [
+                        "https://library.hkbu.edu.hk/services/access-resources-beyond-hkbu-library/"
+                    ]
+                },
+                {
+                    "id": "lib_014",
+                    "category": "ILL Delivery Time",
+                    "category_zh": "馆际互借配送时间",
+                    "question": "How long does interlibrary loan delivery take?",
+                    "question_zh": "馆际互借配送需要多久？",
+                    "answer": "Physical items from local libraries typically arrive within one week; overseas takes 2-3 months. Electronic items: local 3 days-1 week; overseas 15 days-1 month.",
+                    "answer_zh": "本地图书馆的实物资料通常一周内到达；海外需2-3个月。电子资料：本地3天-1周；海外15天-1个月。",
+                    "keywords": [
+                        "delivery time",
+                        "local",
+                        "overseas",
+                        "配送时间",
+                        "本地",
+                        "海外"
+                    ],
+                    "related_links": [
+                        "https://library.hkbu.edu.hk/services/access-resources-beyond-hkbu-library/"
+                    ]
+                },
+                {
+                    "id": "lib_015",
+                    "category": "ILL Contact",
+                    "category_zh": "馆际互借联系",
+                    "question": "How do I get help with interlibrary loan?",
+                    "question_zh": "如何获得馆际互借帮助？",
+                    "answer": "Email libill@hkbu.edu.hk or call 3411-7445 with questions or assistance requests.",
+                    "answer_zh": "发送电子邮件至libill@hkbu.edu.hk或致电3411-7445咨询或请求帮助。",
+                    "keywords": [
+                        "contact",
+                        "email",
+                        "phone",
+                        "help",
+                        "联系",
+                        "电子邮件",
+                        "电话",
+                        "帮助"
+                    ],
+                    "related_links": [
+                        "mailto:libill@hkbu.edu.hk"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "academic_calendar",
+            "name": "Academic Calendar & Examination",
+            "name_zh": "学术日历与考试",
+            "description": "Information about academic calendar, semester dates, examination schedules, and important deadlines",
+            "description_zh": "有关学术日历、学期日期、考试时间表和重要截止日期的信息",
+            "source_url": "https://ar.hkbu.edu.hk/",
+            "faqs": [
+                {
+                    "id": "ac_cal_001",
+                    "question": "When does the First Semester 2025-2026 start and end?",
+                    "question_zh": "2025-2026学年第一学期什么时候开始和结束？",
+                    "answer": "The First Semester 2025-2026 begins on September 1, 2025 and ends on December 18, 2025.",
+                    "answer_zh": "2025-2026学年第一学期于2025年9月1日开始，2025年12月18日结束。",
+                    "keywords": [
+                        "academic calendar",
+                        "first semester",
+                        "2025-2026",
+                        "semester dates",
+                        "学术日历",
+                        "第一学期",
+                        "学期日期"
+                    ],
+                    "related_links": [
+                        "https://ar.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "ac_cal_002",
+                    "question": "When does the Second Semester 2025-2026 start and end?",
+                    "question_zh": "2025-2026学年第二学期什么时候开始和结束？",
+                    "answer": "The Second Semester 2025-2026 begins on January 12, 2026 and ends on May 15, 2026.",
+                    "answer_zh": "2025-2026学年第二学期于2026年1月12日开始，2026年5月15日结束。",
+                    "keywords": [
+                        "academic calendar",
+                        "second semester",
+                        "2025-2026",
+                        "semester dates",
+                        "学术日历",
+                        "第二学期",
+                        "学期日期"
+                    ],
+                    "related_links": [
+                        "https://ar.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "ac_cal_003",
+                    "question": "When are the examination periods for 2025-2026?",
+                    "question_zh": "2025-2026学年的考试期是什么时候？",
+                    "answer": "First Semester exams: December 13-21, 2025. Second Semester exams: May 9-23, 2026.",
+                    "answer_zh": "第一学期考试：2025年12月13-21日。第二学期考试：2026年5月9-23日。",
+                    "keywords": [
+                        "examination",
+                        "exam period",
+                        "exam schedule",
+                        "考试",
+                        "考试期",
+                        "考试时间表"
+                    ],
+                    "related_links": [
+                        "https://ar.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "ac_cal_004",
+                    "question": "What is the deadline for course withdrawal with 'W' grade?",
+                    "question_zh": "带'W'成绩退课的截止日期是什么时候？",
+                    "answer": "Students must apply for withdrawal at least 4 weeks before the examination period. For Semester 1: by mid-November. For Semester 2: by mid-April.",
+                    "answer_zh": "学生必须在考试期开始前至少4周申请退课。第一学期：11月中旬前。第二学期：4月中旬前。",
+                    "keywords": [
+                        "course withdrawal",
+                        "W grade",
+                        "deadline",
+                        "退课",
+                        "W成绩",
+                        "截止日期"
+                    ],
+                    "related_links": [
+                        "https://ar.hkbu.edu.hk/"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "course_registration",
+            "name": "Course Registration & Add/Drop",
+            "name_zh": "课程注册与增退选",
+            "description": "Information about course registration, add/drop periods, and related procedures",
+            "description_zh": "有关课程注册、增退选期和相关程序的信息",
+            "source_url": "https://ar.hkbu.edu.hk/",
+            "faqs": [
+                {
+                    "id": "cr_reg_001",
+                    "question": "When is the add/drop period for Semester 1, 2025-2026?",
+                    "question_zh": "2025-2026学年第一学期的增退选期是什么时候？",
+                    "answer": "The add/drop period for Semester 1, 2025-2026 is from September 1-13, 2025. Students can add or drop courses during this period without academic penalty.",
+                    "answer_zh": "2025-2026学年第一学期的增退选期为2025年9月1-13日。学生可以在此期间增减课程而不受学术处罚。",
+                    "keywords": [
+                        "add/drop",
+                        "course registration",
+                        "semester 1",
+                        "September",
+                        "增退选",
+                        "课程注册",
+                        "第一学期"
+                    ],
+                    "related_links": [
+                        "https://ar.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "cr_reg_002",
+                    "question": "When is the add/drop period for Semester 2, 2025-2026?",
+                    "question_zh": "2025-2026学年第二学期的增退选期是什么时候？",
+                    "answer": "The add/drop period for Semester 2, 2025-2026 is from January 12-24, 2026. Students can add or drop courses during this period without academic penalty.",
+                    "answer_zh": "2025-2026学年第二学期的增退选期为2026年1月12-24日。学生可以在此期间增减课程而不受学术处罚。",
+                    "keywords": [
+                        "add/drop",
+                        "course registration",
+                        "semester 2",
+                        "January",
+                        "增退选",
+                        "课程注册",
+                        "第二学期"
+                    ],
+                    "related_links": [
+                        "https://ar.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "cr_reg_003",
+                    "question": "Do I need approval to add courses?",
+                    "question_zh": "增选课程需要批准吗？",
+                    "answer": "Adding courses during the add/drop period typically does not require special approval, but students should check course prerequisites and seat availability. Some courses may require instructor or department approval.",
+                    "answer_zh": "在增退选期间增选课程通常不需要特殊批准，但学生应检查课程先决条件和座位可用性。某些课程可能需要导师或院系批准。",
+                    "keywords": [
+                        "add courses",
+                        "approval",
+                        "prerequisites",
+                        "增选课程",
+                        "批准",
+                        "先决条件"
+                    ],
+                    "related_links": [
+                        "https://ar.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "cr_reg_004",
+                    "question": "What happens if I drop a course after the add/drop period?",
+                    "question_zh": "如果我在增退选期后退课会怎么样？",
+                    "answer": "After the add/drop period, dropping a course will result in a 'W' (Withdrawal) grade on your transcript. You must apply at least 4 weeks before the examination period. Late withdrawal may not be permitted.",
+                    "answer_zh": "增退选期后退课将在成绩单上显示'W'（退课）成绩。您必须在考试期前至少4周申请。逾期退课可能不被允许。",
+                    "keywords": [
+                        "drop course",
+                        "withdrawal",
+                        "W grade",
+                        "late drop",
+                        "退课",
+                        "退课成绩",
+                        "W成绩"
+                    ],
+                    "related_links": [
+                        "https://ar.hkbu.edu.hk/"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "student_handbook",
+            "name": "Student Handbook & Policies",
+            "name_zh": "学生手册与政策",
+            "description": "University policies, regulations, academic honesty, and student conduct",
+            "description_zh": "大学政策、规定、学术诚信和学生行为",
+            "source_url": "https://sa.hkbu.edu.hk/",
+            "faqs": [
+                {
+                    "id": "sh_pol_001",
+                    "question": "What are the attendance requirements at HKBU?",
+                    "question_zh": "HKBU的出勤要求是什么？",
+                    "answer": "Students are expected to attend all classes regularly and punctually. Departments may set specific attendance requirements for courses. Excessive absence may result in academic penalties or course failure.",
+                    "answer_zh": "学生应定期准时参加所有课程。各院系可能为课程设定具体的出勤要求。过度缺勤可能导致学术处罚或课程不及格。",
+                    "keywords": [
+                        "attendance",
+                        "class attendance",
+                        "requirements",
+                        "出勤",
+                        "上课出勤",
+                        "要求"
+                    ],
+                    "related_links": [
+                        "https://sa.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "sh_pol_002",
+                    "question": "What is HKBU's policy on academic honesty?",
+                    "question_zh": "HKBU的学术诚信政策是什么？",
+                    "answer": "HKBU strictly prohibits plagiarism, cheating, fabrication, and other forms of academic dishonesty. Violations may result in failing grades, suspension, or expulsion. Students must properly cite sources and submit original work.",
+                    "answer_zh": "HKBU严格禁止抄袭、作弊、伪造和其他形式的学术不诚信行为。违规可能导致不及格、停学或开除。学生必须正确引用来源并提交原创作品。",
+                    "keywords": [
+                        "academic honesty",
+                        "plagiarism",
+                        "cheating",
+                        "academic integrity",
+                        "学术诚信",
+                        "抄袭",
+                        "作弊",
+                        "学术诚实"
+                    ],
+                    "related_links": [
+                        "https://sa.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "sh_pol_003",
+                    "question": "Can I register at another UGC-funded institution while studying at HKBU?",
+                    "question_zh": "在HKBU学习期间我可以在其他UGC资助的院校注册吗？",
+                    "answer": "No. Double registration at two or more UGC-funded institutions is strictly prohibited. Students found in violation may face serious disciplinary action.",
+                    "answer_zh": "不可以。严格禁止在两个或更多UGC资助的院校双重注册。违规学生可能面临严重的纪律处分。",
+                    "keywords": [
+                        "double registration",
+                        "UGC",
+                        "prohibition",
+                        "双重注册",
+                        "UGC",
+                        "禁止"
+                    ],
+                    "related_links": [
+                        "https://sa.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "sh_pol_004",
+                    "question": "What are the assessment methods used at HKBU?",
+                    "question_zh": "HKBU使用哪些评估方法？",
+                    "answer": "Assessment methods include examinations, coursework, projects, presentations, laboratory work, and continuous assessment. The specific assessment breakdown varies by course and is detailed in the course outline.",
+                    "answer_zh": "评估方法包括考试、课程作业、项目、演讲、实验室工作和持续评估。具体的评估分配因课程而异，详见课程大纲。",
+                    "keywords": [
+                        "assessment",
+                        "examination",
+                        "coursework",
+                        "grading",
+                        "评估",
+                        "考试",
+                        "课程作业",
+                        "评分"
+                    ],
+                    "related_links": [
+                        "https://sa.hkbu.edu.hk/"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "graduation_requirements",
+            "name": "Graduation Requirements",
+            "name_zh": "毕业要求",
+            "description": "Credit requirements, GPA requirements, and graduation procedures",
+            "description_zh": "学分要求、GPA要求和毕业程序",
+            "source_url": "https://ar.hkbu.edu.hk/",
+            "faqs": [
+                {
+                    "id": "grad_req_001",
+                    "question": "How many credit units are required for graduation?",
+                    "question_zh": "毕业需要多少学分？",
+                    "answer": "Students must complete a minimum of 120 credit units for graduation from undergraduate programmes. This includes University Core Curriculum, General Education, Major requirements, and electives.",
+                    "answer_zh": "学生必须完成至少120个学分才能从本科课程毕业。这包括大学核心课程、通识教育、主修要求和选修课。",
+                    "keywords": [
+                        "credit units",
+                        "120 credits",
+                        "graduation",
+                        "学分",
+                        "120学分",
+                        "毕业"
+                    ],
+                    "related_links": [
+                        "https://ar.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "grad_req_002",
+                    "question": "What is the minimum GPA required for graduation?",
+                    "question_zh": "毕业所需的最低GPA是多少？",
+                    "answer": "Students must achieve a minimum cumulative GPA (cGPA) of 2.0 to graduate. Some programmes may have higher GPA requirements.",
+                    "answer_zh": "学生必须达到最低累计GPA（cGPA）2.0才能毕业。某些课程可能有更高的GPA要求。",
+                    "keywords": [
+                        "GPA",
+                        "minimum GPA",
+                        "2.0 GPA",
+                        "graduation requirement",
+                        "GPA",
+                        "最低GPA",
+                        "2.0 GPA",
+                        "毕业要求"
+                    ],
+                    "related_links": [
+                        "https://ar.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "grad_req_003",
+                    "question": "How many Level 3-4 credit units are required?",
+                    "question_zh": "需要多少Level 3-4的学分？",
+                    "answer": "Students must complete at least 36 credit units at Levels 3-4 (senior level courses) for graduation.",
+                    "answer_zh": "学生必须完成至少36个Level 3-4（高年级课程）学分才能毕业。",
+                    "keywords": [
+                        "Level 3-4",
+                        "senior courses",
+                        "36 credits",
+                        "advanced courses",
+                        "Level 3-4",
+                        "高年级课程",
+                        "36学分"
+                    ],
+                    "related_links": [
+                        "https://ar.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "grad_req_004",
+                    "question": "What are the University Core and General Education requirements?",
+                    "question_zh": "大学核心课程和通识教育的要求是什么？",
+                    "answer": "Students must complete 13 credit units of University Core Curriculum and 18 credit units of General Education courses as part of the 120-credit graduation requirement.",
+                    "answer_zh": "学生必须完成13个学分的大学核心课程和18个学分的通识教育课程，作为120学分毕业要求的一部分。",
+                    "keywords": [
+                        "University Core",
+                        "General Education",
+                        "13 credits",
+                        "18 credits",
+                        "大学核心",
+                        "通识教育",
+                        "13学分",
+                        "18学分"
+                    ],
+                    "related_links": [
+                        "https://ar.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "grad_req_005",
+                    "question": "What are concentration requirements for specific programmes?",
+                    "question_zh": "特定课程的专业方向要求是什么？",
+                    "answer": "Concentration requirements vary by programme. For example, the FinTech concentration requires 21 credit units of concentration courses. Students should check their programme requirements with their academic advisor.",
+                    "answer_zh": "专业方向要求因课程而异。例如，金融科技专业方向需要21个专业课程学分。学生应向学术顾问查询其课程要求。",
+                    "keywords": [
+                        "concentration",
+                        "FinTech",
+                        "21 credits",
+                        "major requirements",
+                        "专业方向",
+                        "金融科技",
+                        "21学分",
+                        "主修要求"
+                    ],
+                    "related_links": [
+                        "https://ar.hkbu.edu.hk/"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "campus_facilities",
+            "name": "Campus Facilities & Sports",
+            "name_zh": "校园设施与体育",
+            "description": "Information about campus facilities, sports centres, and recreational services",
+            "description_zh": "有关校园设施、体育中心和休闲服务的信息",
+            "source_url": "https://sa.hkbu.edu.hk/",
+            "faqs": [
+                {
+                    "id": "fac_spt_001",
+                    "question": "What sports facilities are available at HKBU?",
+                    "question_zh": "HKBU有哪些体育设施？",
+                    "answer": "HKBU has three main sports facilities: Wai Hang Sports Centre, Dr Stephen Hui Sports Hall, and Joint Sports Centre. Facilities include swimming pool, tennis courts, fitness rooms, badminton courts, basketball courts, and multi-purpose halls.",
+                    "answer_zh": "HKBU有三个主要体育设施：惠康体育中心、许士芬博士体育馆和联校运动中心。设施包括游泳池、网球场、健身房、羽毛球场、篮球场和多功能厅。",
+                    "keywords": [
+                        "sports facilities",
+                        "gym",
+                        "swimming pool",
+                        "tennis court",
+                        "体育设施",
+                        "健身房",
+                        "游泳池",
+                        "网球场"
+                    ],
+                    "related_links": [
+                        "https://sa.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "fac_spt_002",
+                    "question": "Where is the Wai Hang Sports Centre located?",
+                    "question_zh": "惠康体育中心在哪里？",
+                    "answer": "The Wai Hang Sports Centre is located on the HKBU main campus. It includes indoor sports facilities, fitness rooms, and multi-purpose activity spaces.",
+                    "answer_zh": "惠康体育中心位于HKBU主校区。它包括室内体育设施、健身房和多功能活动空间。",
+                    "keywords": [
+                        "Wai Hang",
+                        "Sports Centre",
+                        "location",
+                        "main campus",
+                        "惠康",
+                        "体育中心",
+                        "位置",
+                        "主校区"
+                    ],
+                    "related_links": [
+                        "https://sa.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "fac_spt_003",
+                    "question": "Can students use the swimming pool?",
+                    "question_zh": "学生可以使用游泳池吗？",
+                    "answer": "Yes, HKBU students can use the swimming pool at the Joint Sports Centre. Students should check the opening hours and bring their student ID card for access.",
+                    "answer_zh": "是的，HKBU学生可以使用联校运动中心的游泳池。学生应查看开放时间并携带学生证进入。",
+                    "keywords": [
+                        "swimming pool",
+                        "student access",
+                        "Joint Sports Centre",
+                        "游泳池",
+                        "学生使用",
+                        "联校运动中心"
+                    ],
+                    "related_links": [
+                        "https://sa.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "fac_spt_004",
+                    "question": "Are there fitness facilities on campus?",
+                    "question_zh": "校园内有健身设施吗？",
+                    "answer": "Yes, HKBU has fitness rooms equipped with cardio machines and weight training equipment at the Wai Hang Sports Centre and Dr Stephen Hui Sports Hall. Students can access these facilities with their student ID.",
+                    "answer_zh": "是的，HKBU在惠康体育中心和许士芬博士体育馆设有配备有氧机器和重量训练设备的健身房。学生可以凭学生证使用这些设施。",
+                    "keywords": [
+                        "fitness room",
+                        "gym",
+                        "cardio",
+                        "weight training",
+                        "健身房",
+                        "有氧",
+                        "重量训练"
+                    ],
+                    "related_links": [
+                        "https://sa.hkbu.edu.hk/"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "career_services",
+            "name": "Career Centre & Internships",
+            "name_zh": "就业中心与实习",
+            "description": "Career development, job placement, internship programmes, and employment support",
+            "description_zh": "职业发展、就业安置、实习项目和就业支持",
+            "source_url": "https://sa.hkbu.edu.hk/",
+            "faqs": [
+                {
+                    "id": "car_int_001",
+                    "question": "What is the HKBU STEM Internship Scheme?",
+                    "question_zh": "什么是HKBU STEM实习计划？",
+                    "answer": "The HKBU STEM Internship Scheme provides internship opportunities for STEM students with stipend support ranging from HK$11,490 to HK$34,470 depending on internship duration. It helps students gain practical work experience in their field.",
+                    "answer_zh": "HKBU STEM实习计划为STEM学生提供实习机会，津贴支持从HK$11,490到HK$34,470不等，取决于实习期长度。它帮助学生在其领域获得实际工作经验。",
+                    "keywords": [
+                        "STEM internship",
+                        "stipend",
+                        "HK$11,490-34,470",
+                        "work experience",
+                        "STEM实习",
+                        "津贴",
+                        "工作经验"
+                    ],
+                    "related_links": [
+                        "https://sa.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "car_int_002",
+                    "question": "What is the Metropolitan Attachment Programme (MAP)?",
+                    "question_zh": "什么是大都会实习计划（MAP）？",
+                    "answer": "The Metropolitan Attachment Programme (MAP) is a 6-8 week overseas internship programme that provides students with international work experience in major global cities. It enhances students' global perspectives and professional networks.",
+                    "answer_zh": "大都会实习计划（MAP）是一个6-8周的海外实习项目，为学生提供在全球主要城市的国际工作经验。它增强学生的全球视野和专业网络。",
+                    "keywords": [
+                        "MAP",
+                        "overseas internship",
+                        "6-8 weeks",
+                        "international experience",
+                        "MAP",
+                        "海外实习",
+                        "6-8周",
+                        "国际经验"
+                    ],
+                    "related_links": [
+                        "https://sa.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "car_int_003",
+                    "question": "What is BUhub?",
+                    "question_zh": "什么是BUhub？",
+                    "answer": "BUhub is HKBU's online job portal where students can search for part-time jobs, internships, and full-time positions. Employers post job opportunities specifically for HKBU students and alumni.",
+                    "answer_zh": "BUhub是HKBU的在线就业门户，学生可以搜索兼职工作、实习和全职职位。雇主专门为HKBU学生和校友发布工作机会。",
+                    "keywords": [
+                        "BUhub",
+                        "job portal",
+                        "internship",
+                        "employment",
+                        "BUhub",
+                        "就业门户",
+                        "实习",
+                        "就业"
+                    ],
+                    "related_links": [
+                        "https://sa.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "car_int_004",
+                    "question": "Are there Greater Bay Area internship opportunities?",
+                    "question_zh": "有大湾区实习机会吗？",
+                    "answer": "Yes, HKBU Career Centre offers internship opportunities in the Greater Bay Area cities including Shenzhen, Guangzhou, and other mainland cities. These programmes help students explore career opportunities in the rapidly developing region.",
+                    "answer_zh": "是的，HKBU就业中心提供大湾区城市的实习机会，包括深圳、广州和其他内地城市。这些项目帮助学生探索在快速发展地区的职业机会。",
+                    "keywords": [
+                        "Greater Bay Area",
+                        "GBA",
+                        "Shenzhen",
+                        "Guangzhou",
+                        "internship",
+                        "大湾区",
+                        "深圳",
+                        "广州",
+                        "实习"
+                    ],
+                    "related_links": [
+                        "https://sa.hkbu.edu.hk/"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "health_services",
+            "name": "Health Services & Counselling",
+            "name_zh": "健康服务与咨询",
+            "description": "Medical services, health clinic, counselling services, and mental health support",
+            "description_zh": "医疗服务、健康诊所、心理咨询服务和心理健康支持",
+            "source_url": "https://sa.hkbu.edu.hk/",
+            "faqs": [
+                {
+                    "id": "hlt_cou_001",
+                    "question": "How much does a primary medical consultation cost for students?",
+                    "question_zh": "学生初级医疗咨询费用是多少？",
+                    "answer": "Primary medical consultation costs HK$20 for registered HKBU students. This fee provides access to basic healthcare services at the Health Services Centre.",
+                    "answer_zh": "注册HKBU学生的初级医疗咨询费用为HK$20。此费用提供健康服务中心的基本医疗服务。",
+                    "keywords": [
+                        "medical consultation",
+                        "HK$20",
+                        "student health",
+                        "healthcare",
+                        "医疗咨询",
+                        "HK$20",
+                        "学生健康",
+                        "医疗服务"
+                    ],
+                    "related_links": [
+                        "https://sa.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "hlt_cou_002",
+                    "question": "Where is the Health Services Centre located?",
+                    "question_zh": "健康服务中心在哪里？",
+                    "answer": "The Health Services Centre is located on Level 5 of the Sir Run Run Shaw Building on HKBU main campus. Students can visit during operating hours for medical consultations.",
+                    "answer_zh": "健康服务中心位于HKBU主校区邵逸夫大楼5楼。学生可以在运营时间内前往进行医疗咨询。",
+                    "keywords": [
+                        "Health Services Centre",
+                        "Level 5",
+                        "Sir Run Run Shaw Building",
+                        "location",
+                        "健康服务中心",
+                        "5楼",
+                        "邵逸夫大楼",
+                        "位置"
+                    ],
+                    "related_links": [
+                        "https://sa.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "hlt_cou_003",
+                    "question": "Does HKBU provide counselling services?",
+                    "question_zh": "HKBU提供咨询服务吗？",
+                    "answer": "Yes, HKBU provides free and confidential counselling services for students dealing with academic stress, personal issues, mental health concerns, and adjustment difficulties. Students can make appointments with professional counsellors.",
+                    "answer_zh": "是的，HKBU为面临学业压力、个人问题、心理健康问题和适应困难的学生提供免费和保密的咨询服务。学生可以预约专业咨询师。",
+                    "keywords": [
+                        "counselling",
+                        "mental health",
+                        "free service",
+                        "confidential",
+                        "咨询",
+                        "心理健康",
+                        "免费服务",
+                        "保密"
+                    ],
+                    "related_links": [
+                        "https://sa.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "hlt_cou_004",
+                    "question": "Are there Chinese Medicine services available?",
+                    "question_zh": "有中医服务吗？",
+                    "answer": "Yes, HKBU has Chinese Medicine Clinics that offer consultation services. Students can book online consultations via WhatsApp. The clinics provide traditional Chinese medicine treatments and acupuncture services.",
+                    "answer_zh": "是的，HKBU有中医诊所提供咨询服务。学生可以通过WhatsApp预约在线咨询。诊所提供传统中医治疗和针灸服务。",
+                    "keywords": [
+                        "Chinese Medicine",
+                        "TCM",
+                        "WhatsApp",
+                        "acupuncture",
+                        "中医",
+                        "中药",
+                        "WhatsApp",
+                        "针灸"
+                    ],
+                    "related_links": [
+                        "https://sa.hkbu.edu.hk/"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "orientation_activities",
+            "name": "Orientation & New Student Activities",
+            "name_zh": "迎新活动与新生活动",
+            "description": "New student orientation, welcome activities, and integration programmes",
+            "description_zh": "新生迎新、欢迎活动和融合项目",
+            "source_url": "https://sa.hkbu.edu.hk/",
+            "faqs": [
+                {
+                    "id": "ori_act_001",
+                    "question": "When is the New Student Orientation?",
+                    "question_zh": "新生迎新活动什么时候举行？",
+                    "answer": "New Student Orientation typically takes place in late August before the start of the Fall semester. It includes university-wide activities, faculty orientations, and the Convocation ceremony.",
+                    "answer_zh": "新生迎新活动通常在秋季学期开始前的8月下旬举行。它包括全校活动、学院迎新和开学典礼。",
+                    "keywords": [
+                        "orientation",
+                        "new student",
+                        "late August",
+                        "Fall semester",
+                        "迎新",
+                        "新生",
+                        "8月下旬",
+                        "秋季学期"
+                    ],
+                    "related_links": [
+                        "https://sa.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "ori_act_002",
+                    "question": "What are U-Life Orientation Workshops?",
+                    "question_zh": "什么是U-Life迎新工作坊？",
+                    "answer": "U-Life Orientation Workshops are mandatory sessions for new students covering university life, academic expectations, campus resources, and student support services. These workshops help students adapt to university life.",
+                    "answer_zh": "U-Life迎新工作坊是新生的必修课程，涵盖大学生活、学术期望、校园资源和学生支持服务。这些工作坊帮助学生适应大学生活。",
+                    "keywords": [
+                        "U-Life",
+                        "orientation workshops",
+                        "mandatory",
+                        "new students",
+                        "U-Life",
+                        "迎新工作坊",
+                        "必修",
+                        "新生"
+                    ],
+                    "related_links": [
+                        "https://sa.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "ori_act_003",
+                    "question": "Do faculties have separate orientation programmes?",
+                    "question_zh": "学院有单独的迎新项目吗？",
+                    "answer": "Yes, each faculty organizes its own orientation activities for new students. These faculty-specific orientations provide information about programme requirements, academic advisors, and department facilities.",
+                    "answer_zh": "是的，每个学院为新生组织自己的迎新活动。这些学院特定的迎新活动提供有关课程要求、学术顾问和院系设施的信息。",
+                    "keywords": [
+                        "faculty orientation",
+                        "programme requirements",
+                        "academic advisor",
+                        "学院迎新",
+                        "课程要求",
+                        "学术顾问"
+                    ],
+                    "related_links": [
+                        "https://sa.hkbu.edu.hk/"
+                    ]
+                },
+                {
+                    "id": "ori_act_004",
+                    "question": "Is there a separate orientation for exchange students?",
+                    "question_zh": "交换生有单独的迎新活动吗？",
+                    "answer": "Yes, exchange students have a 1-day orientation programme that includes campus tours, introduction to university services, academic information, and practical matters like accommodation and local transportation.",
+                    "answer_zh": "是的，交换生有1天的迎新项目，包括校园参观、大学服务介绍、学术信息以及住宿和本地交通等实际事务。",
+                    "keywords": [
+                        "exchange student",
+                        "1-day orientation",
+                        "campus tour",
+                        "交换生",
+                        "1天迎新",
+                        "校园参观"
+                    ],
+                    "related_links": [
+                        "https://intl.hkbu.edu.hk/"
+                    ]
+                }
+            ]
+        }
+    ],
+    "contact_information": {
+        "undergraduate_admissions": {
+            "website": "https://admissions.hkbu.edu.hk/"
+        },
+        "graduate_admissions": {
+            "email": "hkbu_tpg@hkbu.edu.hk",
+            "website": "https://gs.hkbu.edu.hk/"
+        },
+        "international_office": {
+            "website": "https://intl.hkbu.edu.hk/"
+        },
+        "student_accommodation": {
+            "email_undergraduate": "accm_ug@hkbu.edu.hk",
+            "email_postgraduate": "accm_pg@hkbu.edu.hk",
+            "service_hours": "Monday to Friday, 9:00 AM - 5:30 PM (excluding public holidays)"
+        },
+        "it_services": {
+            "phone": "3411 7899",
+            "email": "hotline@hkbu.edu.hk",
+            "location": "Room RRS303, Sir Run Run Shaw Building, Ho Sin Hang Campus"
+        },
+        "library": {
+            "website": "https://library.hkbu.edu.hk/"
+        },
+        "university_main": {
+            "phone": "(852) 3411 7400",
+            "address_en": "224 Waterloo Road, Kowloon Tong, Hong Kong",
+            "address_zh": "香港九龙塘浸会大学道224号",
+            "website": "https://www.hkbu.edu.hk/"
+        }
+    },
+    "important_links": [
+        {
+            "name": "HKBU Main Website",
+            "name_zh": "HKBU主网站",
+            "url": "https://www.hkbu.edu.hk/"
+        },
+        {
+            "name": "Undergraduate Admissions",
+            "name_zh": "本科生招生",
+            "url": "https://admissions.hkbu.edu.hk/"
+        },
+        {
+            "name": "Graduate School",
+            "name_zh": "研究生院",
+            "url": "https://gs.hkbu.edu.hk/"
+        },
+        {
+            "name": "Academic Registry",
+            "name_zh": "学术注册处",
+            "url": "https://ar.hkbu.edu.hk/"
+        },
+        {
+            "name": "International Office",
+            "name_zh": "国际交流办公室",
+            "url": "https://intl.hkbu.edu.hk/"
+        },
+        {
+            "name": "Office of Student Affairs",
+            "name_zh": "学生事务处",
+            "url": "https://sa.hkbu.edu.hk/"
+        },
+        {
+            "name": "Library",
+            "name_zh": "图书馆",
+            "url": "https://library.hkbu.edu.hk/"
+        },
+        {
+            "name": "Office of Information Technology",
+            "name_zh": "IT办公室",
+            "url": "https://ito.hkbu.edu.hk/"
+        }
+    ]
+}

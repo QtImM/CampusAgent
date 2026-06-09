@@ -1,0 +1,52 @@
+import type { GraphEntryInput, AgentGraphState } from './types';
+
+export const createInitialAgentGraphState = (input: GraphEntryInput): AgentGraphState => ({
+    input: input.input,
+    normalizedInput: '',
+    sessionId: input.sessionId,
+    userId: input.userId,
+    history: input.history,
+    historySummary: input.historySummary,
+    sessionState: input.sessionState,
+    deviceLocation: input.deviceLocation ?? null,
+    intent: {
+        kind: 'unknown',
+        domain: 'unknown',
+        requiresRetrieval: false,
+        requiresActionPreparation: false,
+        requiresConfirmation: false,
+        confidence: 0,
+        reason: 'not classified yet',
+    },
+    retrieval: {
+        query: '',
+        expandedQueries: [],
+        sourcesRequested: [],
+        rawResults: {},
+        rankedEvidence: [],
+        answerability: 'unknown',
+        answerabilityReason: 'retrieval not run yet',
+    },
+    evidence: [],
+    plan: {
+        decision: 'clarify',
+        reason: 'planner not run yet',
+        selectedEvidenceIds: [],
+    },
+    clarification: {
+        needed: false,
+        missingSlots: [],
+    },
+    pendingAction: input.sessionState.pendingAction ?? null,
+    confirmation: {
+        required: false,
+        satisfied: false,
+    },
+    toolCalls: [],
+    toolResults: [],
+    finalResponse: undefined,
+    memoryCandidates: [],
+    steps: [],
+    trace: [],
+    errors: [],
+});

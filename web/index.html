@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CampusAgent · HKBU 校园智能助手</title>
+    <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+    <div class="app">
+        <header class="topbar">
+            <div class="brand">
+                <span class="logo">🎓</span>
+                <div>
+                    <h1>CampusAgent</h1>
+                    <p class="subtitle">HKBU 校园智能助手</p>
+                </div>
+            </div>
+            <div class="controls">
+                <span id="status" class="status status--unknown">连接中…</span>
+                <label class="loc-toggle">
+                    <input type="checkbox" id="locToggle" />
+                    <span>使用定位</span>
+                </label>
+                <button id="resetBtn" class="reset-btn" title="清空会话">重置</button>
+            </div>
+        </header>
+
+        <main id="messages" class="messages">
+            <div class="welcome">
+                <h2>你好 👋</h2>
+                <p>我可以帮你查课表、找校园建筑、回答 HKBU 校园问题，也能记住你的偏好。</p>
+                <div class="suggestions">
+                    <button class="chip" data-text="今天有什么课？">今天有什么课？</button>
+                    <button class="chip" data-text="AAB 在哪里？">AAB 在哪里？</button>
+                    <button class="chip" data-text="图书馆开放时间">图书馆开放时间</button>
+                    <button class="chip" data-text="离我最近的餐厅是什么？">离我最近的餐厅？</button>
+                </div>
+            </div>
+        </main>
+
+        <footer class="composer">
+            <textarea id="input" rows="1" placeholder="输入消息，回车发送（Shift+回车换行）"></textarea>
+            <button id="sendBtn" class="send-btn">发送</button>
+        </footer>
+    </div>
+    <script src="./app.js"></script>
+</body>
+</html>
