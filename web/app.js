@@ -8,6 +8,7 @@ const locToggle = document.getElementById('locToggle');
 let sessionId = localStorage.getItem('campusagent_session') || null;
 let deviceLocation = null;
 let busy = false;
+let lastUserMessage = '';
 
 // ── Health check ────────────────────────────────────────────────
 fetch('/api/health')
@@ -81,6 +82,34 @@ function addTyping() {
     return msg;
 }
 
+// ── Feedback ────────────────────────────────────────────────────
+function appendFeedback(botText) {
+    const div = document.createElement('div');
+    div.className = 'msg-feedback';
+    ['👍', '👎'].forEach(emoji => {
+        const btn = document.createElement('button');
+        btn.className = 'fb-btn';
+        btn.textContent = emoji;
+        btn.addEventListener('click', () => {
+            fetch('/api/feedback', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    sessionId,
+                    query:    lastUserMessage,
+                    response: botText,
+                    rating:   emoji === '👍' ? 'good' : 'bad',
+                }),
+            }).catch(() => {});
+            div.querySelectorAll('.fb-btn').forEach(b => { b.disabled = true; });
+            btn.style.opacity = '1';
+        });
+        div.appendChild(btn);
+    });
+    messagesEl.appendChild(div);
+    messagesEl.scrollTop = messagesEl.scrollHeight;
+}
+
 // ── Send ────────────────────────────────────────────────────────
 async function send(text) {
     if (busy || !text.trim()) return;
@@ -92,6 +121,7 @@ async function send(text) {
     inputEl.style.height = 'auto';
     const typingEl = addTyping();
 
+    lastUserMessage = text.trim();
     try {
         const res = await fetch('/api/chat', {
             method: 'POST',
@@ -107,6 +137,7 @@ async function send(text) {
             sessionId = data.sessionId;
             localStorage.setItem('campusagent_session', sessionId);
             addMessage('bot', data.reply);
+            appendFeedback(data.reply);
         }
     } catch (e) {
         typingEl.remove();

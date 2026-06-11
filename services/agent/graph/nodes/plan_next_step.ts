@@ -2,6 +2,7 @@ import { callDeepSeek, resolveModelName } from '../../llm';
 import type { AgentGraphState } from '../types';
 import { pushTrace } from '../telemetry';
 import { buildPlannerPrompt } from '../prompts/planner';
+import { Analytics } from '../../analytics';
 
 export const planNextStepNode = async (state: AgentGraphState): Promise<AgentGraphState> => {
     try {
@@ -9,6 +10,15 @@ export const planNextStepNode = async (state: AgentGraphState): Promise<AgentGra
             model: resolveModelName('fast'),
         });
         const parsed = JSON.parse(raw);
+
+        Analytics.track(
+            'plan_decision',
+            {
+                decision:            parsed.decision,
+                selectedEvidenceIds: parsed.selectedEvidenceIds || [],
+            },
+            { sessionId: state.sessionId, userId: state.userId },
+        );
 
         return pushTrace(
             {

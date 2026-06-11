@@ -9,6 +9,7 @@ import { randomUUID } from 'node:crypto';
 
 import { AgentExecutor } from '../services/agent/executor';
 import { AGENT_CONFIG } from '../services/agent/config';
+import { Analytics } from '../services/agent/analytics';
 import type { AgentGeoPoint } from '../services/agent/types';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -72,6 +73,21 @@ app.post('/api/chat', async (req, res) => {
         console.error('[server] /api/chat failed:', error);
         res.status(500).json({ error: error?.message || 'internal error' });
     }
+});
+
+app.post('/api/feedback', (req, res) => {
+    const { sessionId, query, response, rating } = req.body as {
+        sessionId?: string;
+        query?: string;
+        response?: string;
+        rating?: 'good' | 'bad';
+    };
+    Analytics.track(
+        'user_feedback',
+        { query, response, rating },
+        { sessionId },
+    );
+    res.json({ ok: true });
 });
 
 app.post('/api/reset', (req, res) => {

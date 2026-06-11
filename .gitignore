@@ -14,6 +14,7 @@ build/
 # Logs
 *.log
 npm-debug.log*
+logs/
 
 # Eval generated artifacts (dataset + baseline report are tracked; raw runs are not)
 eval/retrieval_runs.jsonl

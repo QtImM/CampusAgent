@@ -2,6 +2,7 @@ import { callDeepSeek, resolveModelName } from '../../llm';
 import type { AgentGraphState } from '../types';
 import { pushTrace, pushTraceWithDuration, startTraceTimer } from '../telemetry';
 import { buildSynthesizerPrompt } from '../prompts/synthesizer';
+import { Analytics } from '../../analytics';
 
 export const synthesizeResponseNode = async (state: AgentGraphState): Promise<AgentGraphState> => {
     console.log('[synthesizeResponseNode] called, finalResponse so far:', state.finalResponse?.slice(0, 40) ?? '(empty)');
@@ -48,6 +49,12 @@ export const synthesizeResponseNode = async (state: AgentGraphState): Promise<Ag
         const raw = await callDeepSeek(buildSynthesizerPrompt(state), { model });
         const latencyMs = timer.getDuration();
 
+        Analytics.track(
+            'response_generated',
+            { model, latencyMs, success: true },
+            { sessionId: state.sessionId, userId: state.userId },
+        );
+
         return pushTraceWithDuration(
             {
                 ...state,
@@ -64,6 +71,12 @@ export const synthesizeResponseNode = async (state: AgentGraphState): Promise<Ag
     } catch (error) {
         const latencyMs = timer.getDuration();
         console.error('[synthesizeResponseNode] LLM call failed:', error);
+
+        Analytics.track(
+            'response_generated',
+            { model, latencyMs, success: false },
+            { sessionId: state.sessionId, userId: state.userId },
+        );
 
         const fallbackFromEvidence = state.evidence.length > 0
             ? `根据已有信息：${state.evidence[0].contentSnippet}`

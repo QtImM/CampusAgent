@@ -1,6 +1,7 @@
 import { classifyIntent } from '../../router';
 import type { AgentGraphState } from '../types';
 import { pushTrace } from '../telemetry';
+import { Analytics } from '../../analytics';
 
 const mapIntent = (decision: ReturnType<typeof classifyIntent>) => {
     if (decision.intent === 'campus_faq') {
@@ -55,6 +56,17 @@ const mapIntent = (decision: ReturnType<typeof classifyIntent>) => {
 export const routeIntentNode = async (state: AgentGraphState): Promise<AgentGraphState> => {
     const decision = classifyIntent(state.normalizedInput || state.input);
     const mapped = mapIntent(decision);
+
+    Analytics.track(
+        'intent_classified',
+        {
+            query:      state.normalizedInput || state.input,
+            intent:     decision.intent,
+            domain:     mapped.domain,
+            confidence: decision.confidence,
+        },
+        { sessionId: state.sessionId, userId: state.userId },
+    );
 
     return pushTrace(
         {

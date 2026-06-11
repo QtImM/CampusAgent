@@ -18,7 +18,7 @@ START
   → END
 ```
 
-三层运行时（与原项目一致，仅把主路径从 ReAct 换回 LangGraph）：
+三层运行时（LangGraph）：
 
 1. **LangGraph runtime（主路径）** — 问答 / 检索 / 规划 / 工具执行的完整状态图。
 2. **Action Agent runtime（写操作）** — `ACTION_AGENT_ENABLED` 时，课程/教师评价、组队、课程群消息、日历、课表写入路由至此，生成带确认流程的结构化 `actionPayload`。
@@ -26,12 +26,13 @@ START
 
 ```
 CampusAgent/
-├── server/index.ts        # Express 后端：POST /api/chat，托管 web 静态资源
+├── server/index.ts        # Express 后端：POST /api/chat、/api/feedback，托管 web 静态资源
 ├── web/                   # 纯 HTML/CSS/JS 聊天前端（无构建步骤）
 ├── services/agent/
 │   ├── graph/             # LangGraph 主流水线（nodes / edges / retrieval / prompts）
 │   ├── react_runtime/     # ReAct 降级路径
 │   ├── action_runtime/    # Action Agent 写操作路径
+│   ├── analytics.ts       # 事件埋点：fire-and-forget 写入 logs/events.ndjson
 │   └── executor.ts        # 入口适配器：graph → react → fallback
 ├── services/*.ts          # Node 兼容的数据层 shim（复用真实 Supabase 表）
 ├── data/                  # 静态数据（buildings、campus_faq）
@@ -73,6 +74,7 @@ npm start          # 或 npm run dev（监听文件变化自动重启）
 - `GET /api/health` → `{ ok, deepseekConfigured, fastModel, reasoningModel }`
 - `POST /api/chat` → body `{ sessionId?, message, location?, userId? }`，返回 `{ sessionId, reply, steps, actionPayload }`
 - `POST /api/reset` → body `{ sessionId }`，清空该会话
+- `POST /api/feedback` → body `{ sessionId?, query?, response?, rating: 'good'|'bad' }`，记录用户满意度
 
 ## 与 HKCampus 的关系
 
